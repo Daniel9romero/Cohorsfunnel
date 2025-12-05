@@ -1,0 +1,251 @@
+.filter-panel {
+  background: white;
+  border-right: 1px solid #e8e8e8;
+  padding: 1.25rem;
+  width: 260px;
+  min-width: 260px;
+  overflow-y: auto;
+  flex-shrink: 0;
+  transition: width 0.3s ease, min-width 0.3s ease, padding 0.3s ease;
+}
+
+.filter-panel.collapsed {
+  width: 50px;
+  min-width: 50px;
+  padding: 1rem 0.5rem;
+}
+
+.filter-panel__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+  gap: 0.5rem;
+}
+
+.filter-panel.collapsed .filter-panel__header {
+  justify-content: center;
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.filter-panel__header h2 {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #1a1a2e;
+  font-weight: 600;
+  flex: 1;
+}
+
+.btn-toggle {
+  width: 28px;
+  height: 28px;
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  color: #666;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.btn-toggle:hover {
+  background: #e0e0e0;
+  color: #333;
+}
+
+.filter-badge {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  background: #e74c3c;
+  color: white;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-toggle {
+  position: relative;
+}
+
+.btn-reset {
+  padding: 0.4rem 0.75rem;
+  background: transparent;
+  color: #c0392b;
+  border: 1px solid #c0392b;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.75rem;
+  font-weight: 500;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.btn-reset:hover {
+  background: #c0392b;
+  color: white;
+}
+
+.filter-panel__notice {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  padding: 0.75rem;
+  background: #fff3cd;
+  border: 1px solid #ffc107;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  font-size: 0.75rem;
+  color: #856404;
+  line-height: 1.4;
+}
+
+.notice-icon {
+  width: 18px;
+  height: 18px;
+  background: #ffc107;
+  color: #856404;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 12px;
+  flex-shrink: 0;
+}
+
+.filter-panel__content {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.filter-group.disabled {
+  opacity: 0.6;
+}
+
+.filter-group > label {
+  font-weight: 600;
+  color: #333;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.filter-group select,
+.filter-group input[type="date"] {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  background: white;
+  width: 100%;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.filter-group select:disabled,
+.filter-group input[type="date"]:disabled {
+  background: #f5f5f5;
+  cursor: not-allowed;
+}
+
+.filter-group select:focus,
+.filter-group input[type="date"]:focus {
+  outline: none;
+  border-color: #1a1a2e;
+  box-shadow: 0 0 0 3px rgba(26, 26, 46, 0.1);
+}
+
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.checkbox-group.scrollable {
+  max-height: 160px;
+  overflow-y: auto;
+  padding: 0.5rem;
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 6px;
+}
+
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  font-weight: normal;
+  font-size: 0.85rem;
+  color: #444;
+  padding: 0.25rem 0;
+}
+
+.filter-group.disabled .checkbox-label {
+  cursor: not-allowed;
+}
+
+.checkbox-label:hover {
+  color: #1a1a2e;
+}
+
+.checkbox-label input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  accent-color: #1a1a2e;
+}
+
+.checkbox-label input[type="checkbox"]:disabled {
+  cursor: not-allowed;
+}
+
+@media (max-width: 768px) {
+  .filter-panel {
+    width: 100%;
+    min-width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #e8e8e8;
+    max-height: none;
+  }
+
+  .filter-panel.collapsed {
+    width: 100%;
+    min-width: 100%;
+    padding: 0.75rem 1rem;
+  }
+
+  .filter-panel.collapsed .filter-panel__header {
+    justify-content: flex-start;
+  }
+
+  .btn-toggle {
+    width: 100%;
+    max-width: 120px;
+  }
+
+  .filter-panel.collapsed .btn-toggle::after {
+    content: ' Filtros';
+    margin-left: 0.5rem;
+  }
+}

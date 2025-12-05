@@ -1,0 +1,513 @@
+/* Layout */
+.page-layout {
+  display: flex;
+  flex: 1;
+  width: 100%;
+  min-height: calc(100vh - 64px);
+}
+
+.page-layout--full {
+  flex-direction: column;
+}
+
+.page-content {
+  flex: 1;
+  padding: 1.5rem;
+  background: #f0f2f5;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.page-content--full {
+  padding: 1.5rem;
+  width: 100%;
+}
+
+.page-header {
+  margin-bottom: 1.5rem;
+}
+
+.page-header h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.page-header p {
+  margin: 0;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+/* Home Page */
+.home-page {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.hero {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  color: white;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.hero h1 {
+  font-size: 2rem;
+  margin: 0 0 0.75rem 0;
+}
+
+.hero .subtitle {
+  font-size: 1.1rem;
+  margin: 0 0 0.75rem 0;
+  opacity: 0.9;
+}
+
+.hero .description {
+  font-size: 0.95rem;
+  margin: 0 auto;
+  opacity: 0.85;
+  max-width: 600px;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 900px) {
+  .features {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .features {
+    grid-template-columns: 1fr;
+  }
+}
+
+.feature-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: all 0.25s ease;
+  display: block;
+  border: 1px solid #e8e8e8;
+}
+
+.feature-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  border-color: #d0d0d0;
+}
+
+.feature-icon-bar {
+  height: 4px;
+  width: 50px;
+  border-radius: 2px;
+  margin-bottom: 1rem;
+}
+
+.feature-icon-bar.cohorts-bar {
+  background: linear-gradient(90deg, #5470c6, #91cc75);
+}
+
+.feature-icon-bar.funnel-bar {
+  background: linear-gradient(90deg, #5470c6, #fac858, #ee6666);
+}
+
+.feature-icon-bar.map-bar {
+  background: linear-gradient(90deg, #3498db, #27ae60, #e74c3c);
+}
+
+.feature-card h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.feature-card p {
+  margin: 0 0 0.75rem 0;
+  color: #666;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.feature-link {
+  color: #0f3460;
+  font-weight: 500;
+  font-size: 0.85rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.info-section {
+  background: white;
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.info-section h2 {
+  margin: 0 0 1.25rem 0;
+  font-size: 1.25rem;
+  color: #333;
+  text-align: center;
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+}
+
+@media (max-width: 768px) {
+  .info-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.info-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1.25rem;
+}
+
+.info-card h3 {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.95rem;
+  color: #333;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 0.5rem;
+}
+
+.info-card ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.info-card li {
+  margin-bottom: 0.4rem;
+  color: #555;
+  font-size: 0.85rem;
+}
+
+.home-footer {
+  text-align: center;
+  padding: 1.5rem;
+  color: #666;
+  font-size: 0.85rem;
+}
+
+/* Cohort Controls */
+.cohort-controls {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.stage-selector {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.stage-selector label {
+  font-weight: 500;
+  color: #555;
+  font-size: 0.9rem;
+}
+
+.stage-selector select {
+  padding: 0.4rem 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 0.875rem;
+  cursor: pointer;
+}
+
+.stage-buttons {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.stage-button {
+  padding: 0.4rem 0.875rem;
+  background: #f0f0f0;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  transition: all 0.2s;
+}
+
+.stage-button:hover {
+  background: #e0e0e0;
+}
+
+.stage-button.active {
+  background: #007bff;
+  color: white;
+}
+
+/* Cohort Help */
+.cohort-help {
+  background: white;
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-top: 1.25rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+}
+
+.cohort-help h3 {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.help-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}
+
+@media (max-width: 768px) {
+  .help-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.help-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.help-item strong {
+  color: #333;
+  font-size: 0.8rem;
+}
+
+.help-item span {
+  color: #666;
+  font-size: 0.8rem;
+}
+
+/* Funnel Explanation */
+.funnel-explanation {
+  background: white;
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-top: 1.25rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+}
+
+.funnel-explanation h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1rem;
+  color: #333;
+}
+
+.stages-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.75rem;
+}
+
+@media (max-width: 900px) {
+  .stages-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .stages-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.stage-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 0.875rem;
+  text-align: center;
+}
+
+.stage-number {
+  width: 28px;
+  height: 28px;
+  background: #007bff;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 0.85rem;
+  margin: 0 auto 0.5rem;
+}
+
+.stage-card h4 {
+  margin: 0 0 0.35rem 0;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.stage-card p {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #666;
+}
+
+/* Map Page */
+.map-visualization {
+  margin-top: 0.75rem;
+}
+
+/* Conversion Summary */
+.conversion-summary {
+  background: white;
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+}
+
+.conversion-summary h3 {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.summary-description {
+  margin: 0 0 1rem 0;
+  color: #666;
+  font-size: 0.85rem;
+}
+
+.conversion-flow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.conversion-item {
+  display: flex;
+  align-items: center;
+}
+
+.conversion-stage {
+  background: #f0f4ff;
+  border: 2px solid #5470c6;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  text-align: center;
+  min-width: 100px;
+}
+
+.stage-name {
+  display: block;
+  font-weight: 600;
+  color: #333;
+  font-size: 0.85rem;
+}
+
+.stage-count {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #5470c6;
+}
+
+.conversion-arrow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0.5rem;
+}
+
+.arrow-line {
+  width: 30px;
+  height: 2px;
+  background: #ccc;
+  position: relative;
+}
+
+.arrow-line::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: -4px;
+  border: 5px solid transparent;
+  border-left: 6px solid #ccc;
+}
+
+.conversion-rate {
+  background: #28a745;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  margin-top: 0.25rem;
+}
+
+.conversion-total {
+  text-align: center;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+  color: #333;
+  font-size: 0.95rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .page-layout {
+    flex-direction: column;
+  }
+
+  .hero h1 {
+    font-size: 1.5rem;
+  }
+
+  .cohort-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .stage-buttons {
+    flex-wrap: wrap;
+  }
+
+  .conversion-flow {
+    flex-direction: column;
+  }
+
+  .conversion-arrow {
+    transform: rotate(90deg);
+    padding: 0.5rem 0;
+  }
+}

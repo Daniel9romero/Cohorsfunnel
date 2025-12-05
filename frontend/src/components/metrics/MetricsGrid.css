@@ -1,0 +1,127 @@
+.metrics-container {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  border: 1px solid #e8e8e8;
+  margin-bottom: 1.5rem;
+}
+
+.metrics-title {
+  font-size: 1.1rem;
+  margin: 0 0 1.25rem 0;
+  color: #1a1a2e;
+  font-weight: 600;
+}
+
+.metrics-section {
+  margin-bottom: 1.5rem;
+}
+
+.metrics-section:last-child {
+  margin-bottom: 0;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 0.75rem;
+}
+
+.section-header h3 {
+  font-size: 0.85rem;
+  color: #666;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.metrics-section h3 {
+  font-size: 0.85rem;
+  color: #666;
+  margin: 0 0 0.75rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #eee;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 0.75rem;
+}
+
+.metrics-loading,
+.metrics-error,
+.metrics-empty {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  background: #fafafa;
+  border-radius: 8px;
+  color: #888;
+  border: 1px solid #eee;
+}
+
+.metrics-error {
+  color: #c0392b;
+  background: #fdf2f2;
+  border-color: #f5c6cb;
+}
+
+.metric-card {
+  background: #fafafa;
+  border-radius: 6px;
+  padding: 1rem;
+  text-align: center;
+  border-left: 3px solid #1a1a2e;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.metric-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.metric-card--primary {
+  border-left-color: #1a1a2e;
+}
+
+.metric-card--success {
+  border-left-color: #27ae60;
+}
+
+.metric-card--warning {
+  border-left-color: #f39c12;
+}
+
+.metric-card--danger {
+  border-left-color: #c0392b;
+}
+
+.metric-card__title {
+  font-size: 0.7rem;
+  color: #888;
+  margin: 0 0 0.4rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 500;
+}
+
+.metric-card__value {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #333;
+  margin: 0;
+}
+
+.metric-card__subtitle {
+  font-size: 0.7rem;
+  color: #999;
+  display: block;
+  margin-top: 0.25rem;
+}

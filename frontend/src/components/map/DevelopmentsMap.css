@@ -1,0 +1,151 @@
+.map-container {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  border: 1px solid #e8e8e8;
+  position: relative;
+}
+
+.map-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.map-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #2c3e50;
+}
+
+.developments-table .table-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.developments-table .table-header h3 {
+  margin: 0;
+  font-size: 1rem;
+  color: #333;
+}
+
+.custom-marker {
+  background: transparent;
+  border: none;
+}
+
+.map-loading,
+.map-error {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  color: #666;
+}
+
+.map-error {
+  color: #dc3545;
+}
+
+.map-legend {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+}
+
+.map-legend h4 {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.875rem;
+  color: #333;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.legend-item:last-child {
+  margin-bottom: 0;
+}
+
+.legend-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.popup-content {
+  min-width: 200px;
+}
+
+.popup-content h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1rem;
+  color: #333;
+}
+
+.popup-content p {
+  margin: 0.25rem 0;
+  font-size: 0.875rem;
+  color: #666;
+}
+
+.popup-content hr {
+  margin: 0.75rem 0;
+  border: none;
+  border-top: 1px solid #e0e0e0;
+}
+
+.developments-table {
+  margin-top: 1.5rem;
+}
+
+.developments-table h3 {
+  font-size: 1rem;
+  margin: 0 0 1rem 0;
+  color: #333;
+}
+
+.developments-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.developments-table th,
+.developments-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.developments-table th {
+  background: #f8f9fa;
+  font-weight: 600;
+  color: #333;
+}
+
+.developments-table tr:hover {
+  background: #f8f9fa;
+}
+
+.region-badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 500;
+}

@@ -1,0 +1,114 @@
+.chart-container {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  border: 1px solid #e8e8e8;
+  margin-bottom: 1.5rem;
+}
+
+.chart-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.chart-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #2c3e50;
+}
+
+.table-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.table-header h4 {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #2c3e50;
+}
+
+.chart-loading,
+.chart-error,
+.chart-empty {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  background: #fafafa;
+  border-radius: 8px;
+  color: #888;
+  font-size: 0.95rem;
+  border: 1px solid #eee;
+}
+
+.chart-error {
+  color: #c0392b;
+  background: #fdf2f2;
+  border-color: #f5c6cb;
+}
+
+.funnel-table {
+  margin-top: 1.5rem;
+  overflow-x: auto;
+}
+
+.funnel-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.funnel-table th,
+.funnel-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.funnel-table th {
+  background: #f8f9fa;
+  font-weight: 600;
+  color: #333;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.funnel-table tr:hover {
+  background: #f8f9fa;
+}
+
+.funnel-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.stage-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
+.chart-help {
+  margin-top: 1rem;
+  padding: 0.75rem 1rem;
+  background: #f8f9fa;
+  border-radius: 6px;
+  border-left: 3px solid #5470c6;
+}
+
+.chart-help p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.chart-help strong {
+  color: #333;
+}

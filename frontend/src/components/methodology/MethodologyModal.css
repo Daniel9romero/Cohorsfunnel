@@ -1,0 +1,346 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  padding: 2rem;
+}
+
+.modal-content {
+  background: white;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 900px;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.modal-header h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.modal-close {
+  background: none;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  color: #999;
+  line-height: 1;
+  padding: 0;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 0.2s;
+}
+
+.modal-close:hover {
+  background: #f0f0f0;
+  color: #333;
+}
+
+.modal-body {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+.methodology-nav {
+  width: 200px;
+  background: #f8f9fa;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  border-right: 1px solid #e0e0e0;
+}
+
+.nav-button {
+  padding: 0.75rem 1rem;
+  background: none;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 0.875rem;
+  color: #666;
+  transition: all 0.2s;
+}
+
+.nav-button:hover {
+  background: #e9ecef;
+  color: #333;
+}
+
+.nav-button.active {
+  background: #007bff;
+  color: white;
+}
+
+.methodology-content {
+  flex: 1;
+  padding: 2rem;
+  overflow-y: auto;
+}
+
+.methodology-content h3 {
+  margin: 0 0 1.5rem 0;
+  font-size: 1.25rem;
+  color: #333;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 0.5rem;
+}
+
+.methodology-content h4 {
+  margin: 1.25rem 0 0.75rem 0;
+  font-size: 1rem;
+  color: #444;
+}
+
+.methodology-content p {
+  margin: 0 0 1rem 0;
+  color: #555;
+  line-height: 1.6;
+}
+
+.methodology-content ul,
+.methodology-content ol {
+  margin: 0 0 1rem 0;
+  padding-left: 1.5rem;
+  color: #555;
+}
+
+.methodology-content li {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+.methodology-content code {
+  background: #f4f4f4;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-family: 'Consolas', 'Monaco', monospace;
+  font-size: 0.875rem;
+  color: #d63384;
+}
+
+.data-source,
+.process-step,
+.tech-section,
+.filter-item {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #007bff;
+}
+
+.concept-box {
+  background: #e7f3ff;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid #b3d9ff;
+}
+
+.concept-box.highlight {
+  background: #d4edda;
+  border: 2px solid #28a745;
+}
+
+.flow-diagram {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.flow-item {
+  background: #007bff;
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-align: center;
+}
+
+.flow-arrow {
+  color: #666;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.visualization-box {
+  background: #fff3e0;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ffcc80;
+}
+
+.interpretation-box {
+  background: #e8f5e9;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid #a5d6a7;
+}
+
+.why-box {
+  background: #fce4ec;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid #f8bbd9;
+}
+
+.funnel-stages {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.stage-flow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.stage {
+  background: #007bff;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 0.875rem;
+}
+
+.arrow {
+  color: #999;
+  font-size: 1.25rem;
+}
+
+.formulas-box {
+  background: #263238;
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.formulas-box h4 {
+  color: #90caf9;
+  margin-top: 0;
+}
+
+.formula {
+  margin-bottom: 0.75rem;
+}
+
+.formula:last-child {
+  margin-bottom: 0;
+}
+
+.formula code {
+  background: #37474f;
+  color: #a5d6a7;
+  display: block;
+  padding: 0.5rem 0.75rem;
+}
+
+.filters-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.filter-item h4 {
+  margin-top: 0;
+}
+
+.filter-item p {
+  margin-bottom: 0;
+  font-size: 0.875rem;
+}
+
+.filter-behavior {
+  background: #fff8e1;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-top: 1.5rem;
+  border: 1px solid #ffecb3;
+}
+
+/* Boton de metodologia */
+.methodology-button {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  padding: 0.6rem 1.25rem;
+  background: #1a1a2e;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(26, 26, 46, 0.3);
+  transition: all 0.2s;
+  z-index: 1000;
+}
+
+.methodology-button:hover {
+  background: #0f3460;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(26, 26, 46, 0.4);
+}
+
+@media (max-width: 768px) {
+  .modal-body {
+    flex-direction: column;
+  }
+
+  .methodology-nav {
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-right: none;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  .nav-button {
+    flex: 1;
+    min-width: 100px;
+    text-align: center;
+  }
+}
