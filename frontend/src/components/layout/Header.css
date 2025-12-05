@@ -56,6 +56,19 @@
   color: #fff;
 }
 
+.nav-link.contact-btn {
+  background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+  color: #fff;
+  margin-left: 0.5rem;
+  border: none;
+}
+
+.nav-link.contact-btn:hover {
+  background: linear-gradient(135deg, #2980b9 0%, #1a5276 100%);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(52, 152, 219, 0.4);
+}
+
 @media (max-width: 768px) {
   .header-content {
     flex-direction: column;

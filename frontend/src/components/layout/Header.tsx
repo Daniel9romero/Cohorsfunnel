@@ -45,6 +45,14 @@ export const Header: React.FC = () => {
           >
             Metodologia
           </Link>
+          <a
+            href="https://daniel9romero.github.io/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="nav-link contact-btn"
+          >
+            Contacto
+          </a>
         </nav>
       </div>
     </header>
