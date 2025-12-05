@@ -1,0 +1,4779 @@
+{
+  "all": {
+    "data": [
+      {
+        "period": "2023-01",
+        "leads": 5000,
+        "contacto": 80.14,
+        "cita": 79.5,
+        "venta_bruta": 80.52,
+        "escrituracion": 79.54
+      },
+      {
+        "period": "2023-02",
+        "leads": 5000,
+        "contacto": 80.32,
+        "cita": 80.24,
+        "venta_bruta": 80.28,
+        "escrituracion": 80.4
+      },
+      {
+        "period": "2023-03",
+        "leads": 5000,
+        "contacto": 79.22,
+        "cita": 80.86,
+        "venta_bruta": 80.3,
+        "escrituracion": 79.34
+      },
+      {
+        "period": "2023-04",
+        "leads": 5000,
+        "contacto": 78.82,
+        "cita": 81.6,
+        "venta_bruta": 80.02,
+        "escrituracion": 80.56
+      },
+      {
+        "period": "2023-05",
+        "leads": 5000,
+        "contacto": 80.04,
+        "cita": 79.86,
+        "venta_bruta": 80.1,
+        "escrituracion": 80.32
+      },
+      {
+        "period": "2023-06",
+        "leads": 5000,
+        "contacto": 79.08,
+        "cita": 80.1,
+        "venta_bruta": 80.76,
+        "escrituracion": 79.76
+      },
+      {
+        "period": "2023-07",
+        "leads": 5000,
+        "contacto": 79.58,
+        "cita": 80.4,
+        "venta_bruta": 80.16,
+        "escrituracion": 81.04
+      },
+      {
+        "period": "2023-08",
+        "leads": 5000,
+        "contacto": 79.92,
+        "cita": 79.68,
+        "venta_bruta": 79.9,
+        "escrituracion": 79.62
+      },
+      {
+        "period": "2023-09",
+        "leads": 5000,
+        "contacto": 80.7,
+        "cita": 80.44,
+        "venta_bruta": 80.32,
+        "escrituracion": 79.54
+      },
+      {
+        "period": "2023-10",
+        "leads": 5000,
+        "contacto": 79.72,
+        "cita": 79.8,
+        "venta_bruta": 79.82,
+        "escrituracion": 79.68
+      },
+      {
+        "period": "2023-11",
+        "leads": 5000,
+        "contacto": 80.2,
+        "cita": 79.78,
+        "venta_bruta": 80.82,
+        "escrituracion": 80.4
+      },
+      {
+        "period": "2023-12",
+        "leads": 5000,
+        "contacto": 79.42,
+        "cita": 79.76,
+        "venta_bruta": 80.46,
+        "escrituracion": 79.94
+      },
+      {
+        "period": "2024-01",
+        "leads": 5000,
+        "contacto": 80.28,
+        "cita": 80.22,
+        "venta_bruta": 80.04,
+        "escrituracion": 80.82
+      },
+      {
+        "period": "2024-02",
+        "leads": 5000,
+        "contacto": 80.06,
+        "cita": 81.0,
+        "venta_bruta": 80.14,
+        "escrituracion": 80.34
+      },
+      {
+        "period": "2024-03",
+        "leads": 5000,
+        "contacto": 79.1,
+        "cita": 81.1,
+        "venta_bruta": 79.86,
+        "escrituracion": 79.94
+      },
+      {
+        "period": "2024-04",
+        "leads": 5000,
+        "contacto": 80.64,
+        "cita": 80.86,
+        "venta_bruta": 79.26,
+        "escrituracion": 80.46
+      },
+      {
+        "period": "2024-05",
+        "leads": 5000,
+        "contacto": 80.92,
+        "cita": 79.3,
+        "venta_bruta": 80.7,
+        "escrituracion": 79.94
+      },
+      {
+        "period": "2024-06",
+        "leads": 5000,
+        "contacto": 80.52,
+        "cita": 79.64,
+        "venta_bruta": 80.44,
+        "escrituracion": 79.54
+      },
+      {
+        "period": "2024-07",
+        "leads": 5000,
+        "contacto": 79.94,
+        "cita": 80.16,
+        "venta_bruta": 80.24,
+        "escrituracion": 80.2
+      },
+      {
+        "period": "2024-08",
+        "leads": 5000,
+        "contacto": 80.16,
+        "cita": 80.12,
+        "venta_bruta": 81.28,
+        "escrituracion": 81.06
+      },
+      {
+        "period": "2024-09",
+        "leads": 5000,
+        "contacto": 80.06,
+        "cita": 79.72,
+        "venta_bruta": 80.44,
+        "escrituracion": 80.6
+      },
+      {
+        "period": "2024-10",
+        "leads": 5000,
+        "contacto": 80.86,
+        "cita": 79.56,
+        "venta_bruta": 80.16,
+        "escrituracion": 80.26
+      },
+      {
+        "period": "2024-11",
+        "leads": 5000,
+        "contacto": 79.7,
+        "cita": 79.78,
+        "venta_bruta": 79.98,
+        "escrituracion": 81.18
+      },
+      {
+        "period": "2024-12",
+        "leads": 5000,
+        "contacto": 80.14,
+        "cita": 79.02,
+        "venta_bruta": 79.1,
+        "escrituracion": 79.8
+      },
+      {
+        "period": "2025-01",
+        "leads": 3395,
+        "contacto": 81.15,
+        "cita": 80.21,
+        "venta_bruta": 80.85,
+        "escrituracion": 80.35
+      },
+      {
+        "period": "2025-02",
+        "leads": 3051,
+        "contacto": 79.42,
+        "cita": 80.17,
+        "venta_bruta": 80.07,
+        "escrituracion": 78.2
+      },
+      {
+        "period": "2025-03",
+        "leads": 3554,
+        "contacto": 79.23,
+        "cita": 79.8,
+        "venta_bruta": 78.47,
+        "escrituracion": 79.23
+      },
+      {
+        "period": "2025-04",
+        "leads": 2929,
+        "contacto": 79.75,
+        "cita": 80.54,
+        "venta_bruta": 79.0,
+        "escrituracion": 80.27
+      },
+      {
+        "period": "2025-05",
+        "leads": 3502,
+        "contacto": 80.07,
+        "cita": 80.87,
+        "venta_bruta": 80.61,
+        "escrituracion": 80.35
+      }
+    ],
+    "period_type": "month"
+  },
+  "by_region": {
+    "Centro": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 1335,
+          "contacto": 81.5,
+          "cita": 79.25,
+          "venta_bruta": 80.97,
+          "escrituracion": 79.18
+        },
+        {
+          "period": "2023-02",
+          "leads": 1344,
+          "contacto": 80.28,
+          "cita": 80.43,
+          "venta_bruta": 79.76,
+          "escrituracion": 79.39
+        },
+        {
+          "period": "2023-03",
+          "leads": 1307,
+          "contacto": 77.74,
+          "cita": 80.72,
+          "venta_bruta": 80.11,
+          "escrituracion": 79.04
+        },
+        {
+          "period": "2023-04",
+          "leads": 1315,
+          "contacto": 77.03,
+          "cita": 81.83,
+          "venta_bruta": 79.85,
+          "escrituracion": 79.47
+        },
+        {
+          "period": "2023-05",
+          "leads": 1326,
+          "contacto": 80.92,
+          "cita": 79.26,
+          "venta_bruta": 79.64,
+          "escrituracion": 80.24
+        },
+        {
+          "period": "2023-06",
+          "leads": 1327,
+          "contacto": 78.15,
+          "cita": 80.71,
+          "venta_bruta": 81.16,
+          "escrituracion": 80.63
+        },
+        {
+          "period": "2023-07",
+          "leads": 1314,
+          "contacto": 79.98,
+          "cita": 80.52,
+          "venta_bruta": 80.29,
+          "escrituracion": 79.6
+        },
+        {
+          "period": "2023-08",
+          "leads": 1318,
+          "contacto": 79.51,
+          "cita": 79.36,
+          "venta_bruta": 79.89,
+          "escrituracion": 78.91
+        },
+        {
+          "period": "2023-09",
+          "leads": 1351,
+          "contacto": 80.53,
+          "cita": 81.13,
+          "venta_bruta": 79.87,
+          "escrituracion": 80.38
+        },
+        {
+          "period": "2023-10",
+          "leads": 1325,
+          "contacto": 78.87,
+          "cita": 79.02,
+          "venta_bruta": 79.7,
+          "escrituracion": 78.72
+        },
+        {
+          "period": "2023-11",
+          "leads": 1320,
+          "contacto": 81.21,
+          "cita": 78.48,
+          "venta_bruta": 80.91,
+          "escrituracion": 79.55
+        },
+        {
+          "period": "2023-12",
+          "leads": 1365,
+          "contacto": 79.56,
+          "cita": 81.61,
+          "venta_bruta": 79.41,
+          "escrituracion": 81.32
+        },
+        {
+          "period": "2024-01",
+          "leads": 1327,
+          "contacto": 78.52,
+          "cita": 80.03,
+          "venta_bruta": 79.8,
+          "escrituracion": 79.5
+        },
+        {
+          "period": "2024-02",
+          "leads": 1308,
+          "contacto": 79.36,
+          "cita": 81.42,
+          "venta_bruta": 80.2,
+          "escrituracion": 80.96
+        },
+        {
+          "period": "2024-03",
+          "leads": 1368,
+          "contacto": 78.22,
+          "cita": 81.51,
+          "venta_bruta": 83.33,
+          "escrituracion": 78.87
+        },
+        {
+          "period": "2024-04",
+          "leads": 1316,
+          "contacto": 80.85,
+          "cita": 81.38,
+          "venta_bruta": 78.57,
+          "escrituracion": 80.78
+        },
+        {
+          "period": "2024-05",
+          "leads": 1338,
+          "contacto": 80.34,
+          "cita": 79.9,
+          "venta_bruta": 80.79,
+          "escrituracion": 79.0
+        },
+        {
+          "period": "2024-06",
+          "leads": 1355,
+          "contacto": 80.0,
+          "cita": 81.25,
+          "venta_bruta": 80.37,
+          "escrituracion": 80.0
+        },
+        {
+          "period": "2024-07",
+          "leads": 1316,
+          "contacto": 81.0,
+          "cita": 80.47,
+          "venta_bruta": 81.38,
+          "escrituracion": 79.56
+        },
+        {
+          "period": "2024-08",
+          "leads": 1347,
+          "contacto": 79.66,
+          "cita": 80.4,
+          "venta_bruta": 81.07,
+          "escrituracion": 80.7
+        },
+        {
+          "period": "2024-09",
+          "leads": 1346,
+          "contacto": 80.39,
+          "cita": 78.38,
+          "venta_bruta": 81.8,
+          "escrituracion": 80.53
+        },
+        {
+          "period": "2024-10",
+          "leads": 1326,
+          "contacto": 80.69,
+          "cita": 78.58,
+          "venta_bruta": 77.9,
+          "escrituracion": 80.84
+        },
+        {
+          "period": "2024-11",
+          "leads": 1348,
+          "contacto": 78.12,
+          "cita": 80.04,
+          "venta_bruta": 78.86,
+          "escrituracion": 82.64
+        },
+        {
+          "period": "2024-12",
+          "leads": 1343,
+          "contacto": 79.75,
+          "cita": 78.03,
+          "venta_bruta": 79.6,
+          "escrituracion": 82.13
+        },
+        {
+          "period": "2025-01",
+          "leads": 930,
+          "contacto": 80.65,
+          "cita": 80.32,
+          "venta_bruta": 78.71,
+          "escrituracion": 79.14
+        },
+        {
+          "period": "2025-02",
+          "leads": 830,
+          "contacto": 79.88,
+          "cita": 80.12,
+          "venta_bruta": 80.48,
+          "escrituracion": 75.66
+        },
+        {
+          "period": "2025-03",
+          "leads": 966,
+          "contacto": 77.64,
+          "cita": 79.09,
+          "venta_bruta": 78.57,
+          "escrituracion": 76.71
+        },
+        {
+          "period": "2025-04",
+          "leads": 842,
+          "contacto": 79.33,
+          "cita": 81.35,
+          "venta_bruta": 80.29,
+          "escrituracion": 79.45
+        },
+        {
+          "period": "2025-05",
+          "leads": 984,
+          "contacto": 77.74,
+          "cita": 79.88,
+          "venta_bruta": 82.32,
+          "escrituracion": 80.18
+        }
+      ],
+      "period_type": "month"
+    },
+    "Norte": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 2668,
+          "contacto": 79.57,
+          "cita": 79.8,
+          "venta_bruta": 80.62,
+          "escrituracion": 80.25
+        },
+        {
+          "period": "2023-02",
+          "leads": 2660,
+          "contacto": 80.45,
+          "cita": 79.77,
+          "venta_bruta": 80.26,
+          "escrituracion": 80.19
+        },
+        {
+          "period": "2023-03",
+          "leads": 2696,
+          "contacto": 80.45,
+          "cita": 80.82,
+          "venta_bruta": 80.38,
+          "escrituracion": 79.71
+        },
+        {
+          "period": "2023-04",
+          "leads": 2622,
+          "contacto": 78.91,
+          "cita": 81.43,
+          "venta_bruta": 80.66,
+          "escrituracion": 82.0
+        },
+        {
+          "period": "2023-05",
+          "leads": 2634,
+          "contacto": 79.8,
+          "cita": 79.8,
+          "venta_bruta": 80.03,
+          "escrituracion": 80.45
+        },
+        {
+          "period": "2023-06",
+          "leads": 2702,
+          "contacto": 79.61,
+          "cita": 79.76,
+          "venta_bruta": 80.38,
+          "escrituracion": 79.09
+        },
+        {
+          "period": "2023-07",
+          "leads": 2692,
+          "contacto": 78.97,
+          "cita": 80.27,
+          "venta_bruta": 79.79,
+          "escrituracion": 81.39
+        },
+        {
+          "period": "2023-08",
+          "leads": 2696,
+          "contacto": 80.45,
+          "cita": 79.93,
+          "venta_bruta": 79.19,
+          "escrituracion": 79.15
+        },
+        {
+          "period": "2023-09",
+          "leads": 2646,
+          "contacto": 80.69,
+          "cita": 80.76,
+          "venta_bruta": 80.8,
+          "escrituracion": 79.67
+        },
+        {
+          "period": "2023-10",
+          "leads": 2704,
+          "contacto": 79.92,
+          "cita": 79.81,
+          "venta_bruta": 80.21,
+          "escrituracion": 79.77
+        },
+        {
+          "period": "2023-11",
+          "leads": 2649,
+          "contacto": 80.07,
+          "cita": 80.41,
+          "venta_bruta": 81.28,
+          "escrituracion": 80.82
+        },
+        {
+          "period": "2023-12",
+          "leads": 2661,
+          "contacto": 78.73,
+          "cita": 79.37,
+          "venta_bruta": 81.59,
+          "escrituracion": 80.35
+        },
+        {
+          "period": "2024-01",
+          "leads": 2636,
+          "contacto": 81.3,
+          "cita": 80.61,
+          "venta_bruta": 78.98,
+          "escrituracion": 81.56
+        },
+        {
+          "period": "2024-02",
+          "leads": 2697,
+          "contacto": 79.79,
+          "cita": 80.13,
+          "venta_bruta": 79.9,
+          "escrituracion": 80.24
+        },
+        {
+          "period": "2024-03",
+          "leads": 2633,
+          "contacto": 79.72,
+          "cita": 82.07,
+          "venta_bruta": 77.82,
+          "escrituracion": 80.44
+        },
+        {
+          "period": "2024-04",
+          "leads": 2642,
+          "contacto": 80.51,
+          "cita": 80.7,
+          "venta_bruta": 78.77,
+          "escrituracion": 80.36
+        },
+        {
+          "period": "2024-05",
+          "leads": 2660,
+          "contacto": 80.98,
+          "cita": 79.29,
+          "venta_bruta": 80.15,
+          "escrituracion": 80.15
+        },
+        {
+          "period": "2024-06",
+          "leads": 2707,
+          "contacto": 80.75,
+          "cita": 79.24,
+          "venta_bruta": 80.13,
+          "escrituracion": 79.28
+        },
+        {
+          "period": "2024-07",
+          "leads": 2696,
+          "contacto": 79.34,
+          "cita": 80.16,
+          "venta_bruta": 79.34,
+          "escrituracion": 80.38
+        },
+        {
+          "period": "2024-08",
+          "leads": 2628,
+          "contacto": 79.38,
+          "cita": 80.18,
+          "venta_bruta": 82.08,
+          "escrituracion": 81.32
+        },
+        {
+          "period": "2024-09",
+          "leads": 2611,
+          "contacto": 79.32,
+          "cita": 80.31,
+          "venta_bruta": 79.85,
+          "escrituracion": 80.97
+        },
+        {
+          "period": "2024-10",
+          "leads": 2683,
+          "contacto": 80.73,
+          "cita": 78.98,
+          "venta_bruta": 81.63,
+          "escrituracion": 79.61
+        },
+        {
+          "period": "2024-11",
+          "leads": 2662,
+          "contacto": 80.58,
+          "cita": 80.17,
+          "venta_bruta": 80.47,
+          "escrituracion": 80.8
+        },
+        {
+          "period": "2024-12",
+          "leads": 2653,
+          "contacto": 79.95,
+          "cita": 78.93,
+          "venta_bruta": 79.0,
+          "escrituracion": 78.85
+        },
+        {
+          "period": "2025-01",
+          "leads": 1884,
+          "contacto": 81.85,
+          "cita": 81.32,
+          "venta_bruta": 81.95,
+          "escrituracion": 80.41
+        },
+        {
+          "period": "2025-02",
+          "leads": 1726,
+          "contacto": 79.32,
+          "cita": 80.13,
+          "venta_bruta": 80.19,
+          "escrituracion": 79.03
+        },
+        {
+          "period": "2025-03",
+          "leads": 1930,
+          "contacto": 80.16,
+          "cita": 79.74,
+          "venta_bruta": 77.77,
+          "escrituracion": 80.26
+        },
+        {
+          "period": "2025-04",
+          "leads": 1632,
+          "contacto": 79.96,
+          "cita": 80.09,
+          "venta_bruta": 78.55,
+          "escrituracion": 81.19
+        },
+        {
+          "period": "2025-05",
+          "leads": 1877,
+          "contacto": 81.94,
+          "cita": 82.26,
+          "venta_bruta": 79.49,
+          "escrituracion": 80.34
+        }
+      ],
+      "period_type": "month"
+    },
+    "Sur": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 997,
+          "contacto": 79.84,
+          "cita": 79.04,
+          "venta_bruta": 79.64,
+          "escrituracion": 78.13
+        },
+        {
+          "period": "2023-02",
+          "leads": 996,
+          "contacto": 80.02,
+          "cita": 81.22,
+          "venta_bruta": 81.02,
+          "escrituracion": 82.33
+        },
+        {
+          "period": "2023-03",
+          "leads": 997,
+          "contacto": 77.83,
+          "cita": 81.14,
+          "venta_bruta": 80.34,
+          "escrituracion": 78.74
+        },
+        {
+          "period": "2023-04",
+          "leads": 1063,
+          "contacto": 80.81,
+          "cita": 81.75,
+          "venta_bruta": 78.65,
+          "escrituracion": 78.36
+        },
+        {
+          "period": "2023-05",
+          "leads": 1040,
+          "contacto": 79.52,
+          "cita": 80.77,
+          "venta_bruta": 80.87,
+          "escrituracion": 80.1
+        },
+        {
+          "period": "2023-06",
+          "leads": 971,
+          "contacto": 78.89,
+          "cita": 80.23,
+          "venta_bruta": 81.26,
+          "escrituracion": 80.43
+        },
+        {
+          "period": "2023-07",
+          "leads": 994,
+          "contacto": 80.68,
+          "cita": 80.58,
+          "venta_bruta": 80.99,
+          "escrituracion": 81.99
+        },
+        {
+          "period": "2023-08",
+          "leads": 986,
+          "contacto": 79.01,
+          "cita": 79.41,
+          "venta_bruta": 81.85,
+          "escrituracion": 81.85
+        },
+        {
+          "period": "2023-09",
+          "leads": 1003,
+          "contacto": 80.96,
+          "cita": 78.66,
+          "venta_bruta": 79.66,
+          "escrituracion": 78.07
+        },
+        {
+          "period": "2023-10",
+          "leads": 971,
+          "contacto": 80.33,
+          "cita": 80.84,
+          "venta_bruta": 78.89,
+          "escrituracion": 80.74
+        },
+        {
+          "period": "2023-11",
+          "leads": 1031,
+          "contacto": 79.24,
+          "cita": 79.83,
+          "venta_bruta": 79.53,
+          "escrituracion": 80.41
+        },
+        {
+          "period": "2023-12",
+          "leads": 974,
+          "contacto": 81.11,
+          "cita": 78.23,
+          "venta_bruta": 78.85,
+          "escrituracion": 76.9
+        },
+        {
+          "period": "2024-01",
+          "leads": 1037,
+          "contacto": 79.94,
+          "cita": 79.46,
+          "venta_bruta": 83.03,
+          "escrituracion": 80.62
+        },
+        {
+          "period": "2024-02",
+          "leads": 995,
+          "contacto": 81.71,
+          "cita": 82.81,
+          "venta_bruta": 80.7,
+          "escrituracion": 79.8
+        },
+        {
+          "period": "2024-03",
+          "leads": 999,
+          "contacto": 78.68,
+          "cita": 77.98,
+          "venta_bruta": 80.48,
+          "escrituracion": 80.08
+        },
+        {
+          "period": "2024-04",
+          "leads": 1042,
+          "contacto": 80.71,
+          "cita": 80.61,
+          "venta_bruta": 81.38,
+          "escrituracion": 80.33
+        },
+        {
+          "period": "2024-05",
+          "leads": 1002,
+          "contacto": 81.54,
+          "cita": 78.54,
+          "venta_bruta": 82.04,
+          "escrituracion": 80.64
+        },
+        {
+          "period": "2024-06",
+          "leads": 938,
+          "contacto": 80.6,
+          "cita": 78.46,
+          "venta_bruta": 81.45,
+          "escrituracion": 79.64
+        },
+        {
+          "period": "2024-07",
+          "leads": 988,
+          "contacto": 80.16,
+          "cita": 79.76,
+          "venta_bruta": 81.17,
+          "escrituracion": 80.57
+        },
+        {
+          "period": "2024-08",
+          "leads": 1025,
+          "contacto": 82.83,
+          "cita": 79.61,
+          "venta_bruta": 79.51,
+          "escrituracion": 80.88
+        },
+        {
+          "period": "2024-09",
+          "leads": 1043,
+          "contacto": 81.5,
+          "cita": 79.96,
+          "venta_bruta": 80.15,
+          "escrituracion": 79.77
+        },
+        {
+          "period": "2024-10",
+          "leads": 991,
+          "contacto": 81.43,
+          "cita": 82.44,
+          "venta_bruta": 79.21,
+          "escrituracion": 81.23
+        },
+        {
+          "period": "2024-11",
+          "leads": 990,
+          "contacto": 79.49,
+          "cita": 78.38,
+          "venta_bruta": 80.2,
+          "escrituracion": 80.2
+        },
+        {
+          "period": "2024-12",
+          "leads": 1004,
+          "contacto": 81.18,
+          "cita": 80.58,
+          "venta_bruta": 78.69,
+          "escrituracion": 79.18
+        },
+        {
+          "period": "2025-01",
+          "leads": 581,
+          "contacto": 79.69,
+          "cita": 76.42,
+          "venta_bruta": 80.72,
+          "escrituracion": 82.1
+        },
+        {
+          "period": "2025-02",
+          "leads": 495,
+          "contacto": 78.99,
+          "cita": 80.4,
+          "venta_bruta": 78.99,
+          "escrituracion": 79.6
+        },
+        {
+          "period": "2025-03",
+          "leads": 658,
+          "contacto": 78.88,
+          "cita": 81.0,
+          "venta_bruta": 80.4,
+          "escrituracion": 79.94
+        },
+        {
+          "period": "2025-04",
+          "leads": 455,
+          "contacto": 79.78,
+          "cita": 80.66,
+          "venta_bruta": 78.24,
+          "escrituracion": 78.46
+        },
+        {
+          "period": "2025-05",
+          "leads": 641,
+          "contacto": 78.16,
+          "cita": 78.32,
+          "venta_bruta": 81.28,
+          "escrituracion": 80.66
+        }
+      ],
+      "period_type": "month"
+    }
+  },
+  "by_desarrollo": {
+    "Desarrollo 1": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 325,
+          "contacto": 82.46,
+          "cita": 80.62,
+          "venta_bruta": 81.23,
+          "escrituracion": 77.54
+        },
+        {
+          "period": "2023-02",
+          "leads": 343,
+          "contacto": 81.05,
+          "cita": 79.88,
+          "venta_bruta": 80.17,
+          "escrituracion": 78.13
+        },
+        {
+          "period": "2023-03",
+          "leads": 313,
+          "contacto": 73.16,
+          "cita": 80.51,
+          "venta_bruta": 81.15,
+          "escrituracion": 77.96
+        },
+        {
+          "period": "2023-04",
+          "leads": 324,
+          "contacto": 76.23,
+          "cita": 81.79,
+          "venta_bruta": 79.63,
+          "escrituracion": 78.7
+        },
+        {
+          "period": "2023-05",
+          "leads": 320,
+          "contacto": 81.56,
+          "cita": 80.62,
+          "venta_bruta": 78.44,
+          "escrituracion": 78.44
+        },
+        {
+          "period": "2023-06",
+          "leads": 324,
+          "contacto": 78.09,
+          "cita": 78.7,
+          "venta_bruta": 79.32,
+          "escrituracion": 79.63
+        },
+        {
+          "period": "2023-07",
+          "leads": 309,
+          "contacto": 80.58,
+          "cita": 80.26,
+          "venta_bruta": 78.96,
+          "escrituracion": 83.5
+        },
+        {
+          "period": "2023-08",
+          "leads": 323,
+          "contacto": 82.04,
+          "cita": 81.11,
+          "venta_bruta": 78.33,
+          "escrituracion": 83.59
+        },
+        {
+          "period": "2023-09",
+          "leads": 356,
+          "contacto": 82.3,
+          "cita": 80.34,
+          "venta_bruta": 79.78,
+          "escrituracion": 81.46
+        },
+        {
+          "period": "2023-10",
+          "leads": 328,
+          "contacto": 79.57,
+          "cita": 78.35,
+          "venta_bruta": 81.4,
+          "escrituracion": 75.3
+        },
+        {
+          "period": "2023-11",
+          "leads": 293,
+          "contacto": 82.94,
+          "cita": 77.82,
+          "venta_bruta": 81.23,
+          "escrituracion": 81.57
+        },
+        {
+          "period": "2023-12",
+          "leads": 354,
+          "contacto": 79.1,
+          "cita": 78.53,
+          "venta_bruta": 75.14,
+          "escrituracion": 80.23
+        },
+        {
+          "period": "2024-01",
+          "leads": 310,
+          "contacto": 77.74,
+          "cita": 83.87,
+          "venta_bruta": 80.97,
+          "escrituracion": 80.32
+        },
+        {
+          "period": "2024-02",
+          "leads": 321,
+          "contacto": 79.75,
+          "cita": 83.49,
+          "venta_bruta": 79.75,
+          "escrituracion": 82.55
+        },
+        {
+          "period": "2024-03",
+          "leads": 342,
+          "contacto": 75.15,
+          "cita": 79.82,
+          "venta_bruta": 82.46,
+          "escrituracion": 79.82
+        },
+        {
+          "period": "2024-04",
+          "leads": 361,
+          "contacto": 78.39,
+          "cita": 81.99,
+          "venta_bruta": 81.44,
+          "escrituracion": 79.5
+        },
+        {
+          "period": "2024-05",
+          "leads": 350,
+          "contacto": 81.14,
+          "cita": 81.71,
+          "venta_bruta": 81.14,
+          "escrituracion": 76.29
+        },
+        {
+          "period": "2024-06",
+          "leads": 327,
+          "contacto": 77.68,
+          "cita": 77.68,
+          "venta_bruta": 78.59,
+          "escrituracion": 83.18
+        },
+        {
+          "period": "2024-07",
+          "leads": 327,
+          "contacto": 80.43,
+          "cita": 79.82,
+          "venta_bruta": 80.73,
+          "escrituracion": 81.96
+        },
+        {
+          "period": "2024-08",
+          "leads": 372,
+          "contacto": 80.11,
+          "cita": 80.38,
+          "venta_bruta": 80.65,
+          "escrituracion": 81.99
+        },
+        {
+          "period": "2024-09",
+          "leads": 332,
+          "contacto": 79.82,
+          "cita": 77.41,
+          "venta_bruta": 80.72,
+          "escrituracion": 83.13
+        },
+        {
+          "period": "2024-10",
+          "leads": 327,
+          "contacto": 82.26,
+          "cita": 79.2,
+          "venta_bruta": 75.84,
+          "escrituracion": 81.04
+        },
+        {
+          "period": "2024-11",
+          "leads": 326,
+          "contacto": 79.75,
+          "cita": 78.83,
+          "venta_bruta": 77.91,
+          "escrituracion": 83.13
+        },
+        {
+          "period": "2024-12",
+          "leads": 312,
+          "contacto": 81.09,
+          "cita": 75.32,
+          "venta_bruta": 80.77,
+          "escrituracion": 83.01
+        },
+        {
+          "period": "2025-01",
+          "leads": 126,
+          "contacto": 78.57,
+          "cita": 83.33,
+          "venta_bruta": 76.19,
+          "escrituracion": 79.37
+        },
+        {
+          "period": "2025-02",
+          "leads": 74,
+          "contacto": 77.03,
+          "cita": 83.78,
+          "venta_bruta": 78.38,
+          "escrituracion": 85.14
+        },
+        {
+          "period": "2025-03",
+          "leads": 140,
+          "contacto": 82.86,
+          "cita": 79.29,
+          "venta_bruta": 76.43,
+          "escrituracion": 75.0
+        },
+        {
+          "period": "2025-04",
+          "leads": 74,
+          "contacto": 75.68,
+          "cita": 77.03,
+          "venta_bruta": 79.73,
+          "escrituracion": 79.73
+        },
+        {
+          "period": "2025-05",
+          "leads": 142,
+          "contacto": 75.35,
+          "cita": 83.8,
+          "venta_bruta": 83.8,
+          "escrituracion": 78.87
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 6": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 337,
+          "contacto": 81.01,
+          "cita": 79.53,
+          "venta_bruta": 83.98,
+          "escrituracion": 79.82
+        },
+        {
+          "period": "2023-02",
+          "leads": 349,
+          "contacto": 77.94,
+          "cita": 78.51,
+          "venta_bruta": 80.8,
+          "escrituracion": 81.95
+        },
+        {
+          "period": "2023-03",
+          "leads": 319,
+          "contacto": 79.0,
+          "cita": 81.82,
+          "venta_bruta": 77.74,
+          "escrituracion": 78.06
+        },
+        {
+          "period": "2023-04",
+          "leads": 332,
+          "contacto": 77.41,
+          "cita": 80.72,
+          "venta_bruta": 82.23,
+          "escrituracion": 81.33
+        },
+        {
+          "period": "2023-05",
+          "leads": 290,
+          "contacto": 77.24,
+          "cita": 78.28,
+          "venta_bruta": 81.03,
+          "escrituracion": 80.34
+        },
+        {
+          "period": "2023-06",
+          "leads": 367,
+          "contacto": 77.66,
+          "cita": 79.56,
+          "venta_bruta": 78.2,
+          "escrituracion": 76.29
+        },
+        {
+          "period": "2023-07",
+          "leads": 329,
+          "contacto": 82.37,
+          "cita": 80.24,
+          "venta_bruta": 77.81,
+          "escrituracion": 79.94
+        },
+        {
+          "period": "2023-08",
+          "leads": 319,
+          "contacto": 81.19,
+          "cita": 80.56,
+          "venta_bruta": 80.25,
+          "escrituracion": 79.0
+        },
+        {
+          "period": "2023-09",
+          "leads": 331,
+          "contacto": 82.48,
+          "cita": 80.66,
+          "venta_bruta": 81.57,
+          "escrituracion": 77.64
+        },
+        {
+          "period": "2023-10",
+          "leads": 344,
+          "contacto": 83.14,
+          "cita": 80.52,
+          "venta_bruta": 77.91,
+          "escrituracion": 81.69
+        },
+        {
+          "period": "2023-11",
+          "leads": 343,
+          "contacto": 78.43,
+          "cita": 79.59,
+          "venta_bruta": 80.76,
+          "escrituracion": 80.76
+        },
+        {
+          "period": "2023-12",
+          "leads": 321,
+          "contacto": 78.5,
+          "cita": 84.42,
+          "venta_bruta": 79.75,
+          "escrituracion": 79.75
+        },
+        {
+          "period": "2024-01",
+          "leads": 359,
+          "contacto": 83.01,
+          "cita": 81.34,
+          "venta_bruta": 77.16,
+          "escrituracion": 80.22
+        },
+        {
+          "period": "2024-02",
+          "leads": 285,
+          "contacto": 78.25,
+          "cita": 78.6,
+          "venta_bruta": 81.75,
+          "escrituracion": 82.11
+        },
+        {
+          "period": "2024-03",
+          "leads": 319,
+          "contacto": 77.74,
+          "cita": 80.88,
+          "venta_bruta": 81.19,
+          "escrituracion": 79.94
+        },
+        {
+          "period": "2024-04",
+          "leads": 351,
+          "contacto": 80.63,
+          "cita": 80.91,
+          "venta_bruta": 79.49,
+          "escrituracion": 77.78
+        },
+        {
+          "period": "2024-05",
+          "leads": 314,
+          "contacto": 80.89,
+          "cita": 79.94,
+          "venta_bruta": 81.21,
+          "escrituracion": 78.66
+        },
+        {
+          "period": "2024-06",
+          "leads": 327,
+          "contacto": 81.65,
+          "cita": 80.43,
+          "venta_bruta": 81.35,
+          "escrituracion": 79.82
+        },
+        {
+          "period": "2024-07",
+          "leads": 389,
+          "contacto": 80.98,
+          "cita": 80.46,
+          "venta_bruta": 79.43,
+          "escrituracion": 80.46
+        },
+        {
+          "period": "2024-08",
+          "leads": 333,
+          "contacto": 83.18,
+          "cita": 82.88,
+          "venta_bruta": 81.38,
+          "escrituracion": 81.38
+        },
+        {
+          "period": "2024-09",
+          "leads": 299,
+          "contacto": 82.94,
+          "cita": 76.59,
+          "venta_bruta": 79.93,
+          "escrituracion": 78.26
+        },
+        {
+          "period": "2024-10",
+          "leads": 332,
+          "contacto": 81.02,
+          "cita": 81.93,
+          "venta_bruta": 81.02,
+          "escrituracion": 81.33
+        },
+        {
+          "period": "2024-11",
+          "leads": 309,
+          "contacto": 78.64,
+          "cita": 78.64,
+          "venta_bruta": 78.96,
+          "escrituracion": 82.85
+        },
+        {
+          "period": "2024-12",
+          "leads": 323,
+          "contacto": 85.76,
+          "cita": 80.19,
+          "venta_bruta": 77.09,
+          "escrituracion": 77.71
+        },
+        {
+          "period": "2025-01",
+          "leads": 347,
+          "contacto": 80.4,
+          "cita": 77.81,
+          "venta_bruta": 83.57,
+          "escrituracion": 79.83
+        },
+        {
+          "period": "2025-02",
+          "leads": 340,
+          "contacto": 80.88,
+          "cita": 80.88,
+          "venta_bruta": 81.18,
+          "escrituracion": 74.41
+        },
+        {
+          "period": "2025-03",
+          "leads": 298,
+          "contacto": 80.2,
+          "cita": 79.19,
+          "venta_bruta": 75.84,
+          "escrituracion": 82.55
+        },
+        {
+          "period": "2025-04",
+          "leads": 318,
+          "contacto": 80.5,
+          "cita": 80.19,
+          "venta_bruta": 77.04,
+          "escrituracion": 82.39
+        },
+        {
+          "period": "2025-05",
+          "leads": 340,
+          "contacto": 78.82,
+          "cita": 87.94,
+          "venta_bruta": 76.76,
+          "escrituracion": 77.35
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 14": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 329,
+          "contacto": 81.46,
+          "cita": 76.29,
+          "venta_bruta": 80.55,
+          "escrituracion": 79.64
+        },
+        {
+          "period": "2023-02",
+          "leads": 321,
+          "contacto": 79.44,
+          "cita": 80.69,
+          "venta_bruta": 82.87,
+          "escrituracion": 77.57
+        },
+        {
+          "period": "2023-03",
+          "leads": 331,
+          "contacto": 79.46,
+          "cita": 82.48,
+          "venta_bruta": 80.66,
+          "escrituracion": 80.97
+        },
+        {
+          "period": "2023-04",
+          "leads": 353,
+          "contacto": 78.47,
+          "cita": 82.15,
+          "venta_bruta": 79.6,
+          "escrituracion": 77.34
+        },
+        {
+          "period": "2023-05",
+          "leads": 343,
+          "contacto": 78.13,
+          "cita": 78.13,
+          "venta_bruta": 82.22,
+          "escrituracion": 79.01
+        },
+        {
+          "period": "2023-06",
+          "leads": 310,
+          "contacto": 81.29,
+          "cita": 81.29,
+          "venta_bruta": 84.19,
+          "escrituracion": 80.97
+        },
+        {
+          "period": "2023-07",
+          "leads": 322,
+          "contacto": 81.06,
+          "cita": 77.95,
+          "venta_bruta": 80.12,
+          "escrituracion": 81.06
+        },
+        {
+          "period": "2023-08",
+          "leads": 327,
+          "contacto": 79.82,
+          "cita": 79.51,
+          "venta_bruta": 80.12,
+          "escrituracion": 79.2
+        },
+        {
+          "period": "2023-09",
+          "leads": 341,
+          "contacto": 81.23,
+          "cita": 80.94,
+          "venta_bruta": 77.71,
+          "escrituracion": 79.47
+        },
+        {
+          "period": "2023-10",
+          "leads": 317,
+          "contacto": 79.81,
+          "cita": 82.33,
+          "venta_bruta": 77.29,
+          "escrituracion": 81.07
+        },
+        {
+          "period": "2023-11",
+          "leads": 338,
+          "contacto": 78.7,
+          "cita": 78.99,
+          "venta_bruta": 79.88,
+          "escrituracion": 75.74
+        },
+        {
+          "period": "2023-12",
+          "leads": 348,
+          "contacto": 80.17,
+          "cita": 83.33,
+          "venta_bruta": 78.74,
+          "escrituracion": 83.62
+        },
+        {
+          "period": "2024-01",
+          "leads": 316,
+          "contacto": 83.23,
+          "cita": 76.9,
+          "venta_bruta": 78.16,
+          "escrituracion": 81.33
+        },
+        {
+          "period": "2024-02",
+          "leads": 287,
+          "contacto": 79.44,
+          "cita": 80.49,
+          "venta_bruta": 77.0,
+          "escrituracion": 83.28
+        },
+        {
+          "period": "2024-03",
+          "leads": 336,
+          "contacto": 76.19,
+          "cita": 80.65,
+          "venta_bruta": 84.82,
+          "escrituracion": 76.49
+        },
+        {
+          "period": "2024-04",
+          "leads": 326,
+          "contacto": 84.66,
+          "cita": 82.21,
+          "venta_bruta": 75.15,
+          "escrituracion": 81.9
+        },
+        {
+          "period": "2024-05",
+          "leads": 342,
+          "contacto": 75.73,
+          "cita": 80.7,
+          "venta_bruta": 84.5,
+          "escrituracion": 79.24
+        },
+        {
+          "period": "2024-06",
+          "leads": 349,
+          "contacto": 81.95,
+          "cita": 83.38,
+          "venta_bruta": 81.38,
+          "escrituracion": 79.37
+        },
+        {
+          "period": "2024-07",
+          "leads": 329,
+          "contacto": 82.67,
+          "cita": 79.94,
+          "venta_bruta": 78.42,
+          "escrituracion": 79.64
+        },
+        {
+          "period": "2024-08",
+          "leads": 338,
+          "contacto": 79.88,
+          "cita": 80.18,
+          "venta_bruta": 82.25,
+          "escrituracion": 80.47
+        },
+        {
+          "period": "2024-09",
+          "leads": 358,
+          "contacto": 83.24,
+          "cita": 79.05,
+          "venta_bruta": 80.73,
+          "escrituracion": 79.05
+        },
+        {
+          "period": "2024-10",
+          "leads": 340,
+          "contacto": 79.71,
+          "cita": 77.06,
+          "venta_bruta": 75.29,
+          "escrituracion": 80.59
+        },
+        {
+          "period": "2024-11",
+          "leads": 349,
+          "contacto": 77.94,
+          "cita": 79.94,
+          "venta_bruta": 78.22,
+          "escrituracion": 82.81
+        },
+        {
+          "period": "2024-12",
+          "leads": 390,
+          "contacto": 78.97,
+          "cita": 81.03,
+          "venta_bruta": 79.49,
+          "escrituracion": 84.36
+        },
+        {
+          "period": "2025-01",
+          "leads": 341,
+          "contacto": 84.75,
+          "cita": 79.18,
+          "venta_bruta": 77.13,
+          "escrituracion": 79.77
+        },
+        {
+          "period": "2025-02",
+          "leads": 358,
+          "contacto": 79.33,
+          "cita": 77.37,
+          "venta_bruta": 79.89,
+          "escrituracion": 75.7
+        },
+        {
+          "period": "2025-03",
+          "leads": 350,
+          "contacto": 75.43,
+          "cita": 77.14,
+          "venta_bruta": 79.14,
+          "escrituracion": 78.0
+        },
+        {
+          "period": "2025-04",
+          "leads": 351,
+          "contacto": 79.2,
+          "cita": 79.49,
+          "venta_bruta": 78.92,
+          "escrituracion": 78.06
+        },
+        {
+          "period": "2025-05",
+          "leads": 346,
+          "contacto": 73.99,
+          "cita": 79.48,
+          "venta_bruta": 83.53,
+          "escrituracion": 79.19
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 13": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 329,
+          "contacto": 83.59,
+          "cita": 77.51,
+          "venta_bruta": 79.64,
+          "escrituracion": 74.77
+        },
+        {
+          "period": "2023-02",
+          "leads": 331,
+          "contacto": 81.27,
+          "cita": 80.97,
+          "venta_bruta": 83.08,
+          "escrituracion": 83.08
+        },
+        {
+          "period": "2023-03",
+          "leads": 311,
+          "contacto": 75.88,
+          "cita": 78.78,
+          "venta_bruta": 77.49,
+          "escrituracion": 76.53
+        },
+        {
+          "period": "2023-04",
+          "leads": 354,
+          "contacto": 81.64,
+          "cita": 79.66,
+          "venta_bruta": 81.64,
+          "escrituracion": 79.1
+        },
+        {
+          "period": "2023-05",
+          "leads": 339,
+          "contacto": 79.06,
+          "cita": 83.19,
+          "venta_bruta": 79.94,
+          "escrituracion": 79.35
+        },
+        {
+          "period": "2023-06",
+          "leads": 321,
+          "contacto": 78.5,
+          "cita": 80.69,
+          "venta_bruta": 79.44,
+          "escrituracion": 81.0
+        },
+        {
+          "period": "2023-07",
+          "leads": 347,
+          "contacto": 80.12,
+          "cita": 79.83,
+          "venta_bruta": 80.98,
+          "escrituracion": 83.0
+        },
+        {
+          "period": "2023-08",
+          "leads": 382,
+          "contacto": 80.63,
+          "cita": 78.8,
+          "venta_bruta": 82.72,
+          "escrituracion": 84.03
+        },
+        {
+          "period": "2023-09",
+          "leads": 331,
+          "contacto": 83.69,
+          "cita": 78.85,
+          "venta_bruta": 81.27,
+          "escrituracion": 80.06
+        },
+        {
+          "period": "2023-10",
+          "leads": 330,
+          "contacto": 77.88,
+          "cita": 79.09,
+          "venta_bruta": 79.09,
+          "escrituracion": 81.82
+        },
+        {
+          "period": "2023-11",
+          "leads": 373,
+          "contacto": 83.11,
+          "cita": 79.89,
+          "venta_bruta": 78.28,
+          "escrituracion": 78.82
+        },
+        {
+          "period": "2023-12",
+          "leads": 309,
+          "contacto": 81.88,
+          "cita": 77.02,
+          "venta_bruta": 79.61,
+          "escrituracion": 74.76
+        },
+        {
+          "period": "2024-01",
+          "leads": 340,
+          "contacto": 79.12,
+          "cita": 82.65,
+          "venta_bruta": 81.47,
+          "escrituracion": 80.88
+        },
+        {
+          "period": "2024-02",
+          "leads": 345,
+          "contacto": 80.87,
+          "cita": 84.93,
+          "venta_bruta": 79.42,
+          "escrituracion": 82.32
+        },
+        {
+          "period": "2024-03",
+          "leads": 352,
+          "contacto": 76.7,
+          "cita": 78.12,
+          "venta_bruta": 81.53,
+          "escrituracion": 79.83
+        },
+        {
+          "period": "2024-04",
+          "leads": 335,
+          "contacto": 82.39,
+          "cita": 81.49,
+          "venta_bruta": 83.58,
+          "escrituracion": 80.9
+        },
+        {
+          "period": "2024-05",
+          "leads": 322,
+          "contacto": 81.68,
+          "cita": 79.19,
+          "venta_bruta": 83.54,
+          "escrituracion": 79.81
+        },
+        {
+          "period": "2024-06",
+          "leads": 288,
+          "contacto": 84.03,
+          "cita": 80.21,
+          "venta_bruta": 83.68,
+          "escrituracion": 78.47
+        },
+        {
+          "period": "2024-07",
+          "leads": 313,
+          "contacto": 76.36,
+          "cita": 82.43,
+          "venta_bruta": 78.91,
+          "escrituracion": 79.23
+        },
+        {
+          "period": "2024-08",
+          "leads": 361,
+          "contacto": 81.44,
+          "cita": 80.33,
+          "venta_bruta": 81.44,
+          "escrituracion": 81.99
+        },
+        {
+          "period": "2024-09",
+          "leads": 347,
+          "contacto": 83.29,
+          "cita": 79.83,
+          "venta_bruta": 78.67,
+          "escrituracion": 79.83
+        },
+        {
+          "period": "2024-10",
+          "leads": 336,
+          "contacto": 82.74,
+          "cita": 85.71,
+          "venta_bruta": 78.57,
+          "escrituracion": 82.14
+        },
+        {
+          "period": "2024-11",
+          "leads": 310,
+          "contacto": 79.68,
+          "cita": 78.71,
+          "venta_bruta": 77.1,
+          "escrituracion": 82.26
+        },
+        {
+          "period": "2024-12",
+          "leads": 325,
+          "contacto": 78.77,
+          "cita": 80.92,
+          "venta_bruta": 78.15,
+          "escrituracion": 82.15
+        },
+        {
+          "period": "2025-01",
+          "leads": 130,
+          "contacto": 79.23,
+          "cita": 76.15,
+          "venta_bruta": 76.15,
+          "escrituracion": 83.08
+        },
+        {
+          "period": "2025-02",
+          "leads": 82,
+          "contacto": 82.93,
+          "cita": 80.49,
+          "venta_bruta": 73.17,
+          "escrituracion": 79.27
+        },
+        {
+          "period": "2025-03",
+          "leads": 166,
+          "contacto": 73.49,
+          "cita": 83.73,
+          "venta_bruta": 80.72,
+          "escrituracion": 83.13
+        },
+        {
+          "period": "2025-04",
+          "leads": 68,
+          "contacto": 77.94,
+          "cita": 89.71,
+          "venta_bruta": 76.47,
+          "escrituracion": 73.53
+        },
+        {
+          "period": "2025-05",
+          "leads": 128,
+          "contacto": 81.25,
+          "cita": 80.47,
+          "venta_bruta": 82.03,
+          "escrituracion": 80.47
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 2": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 331,
+          "contacto": 81.27,
+          "cita": 78.55,
+          "venta_bruta": 81.57,
+          "escrituracion": 79.46
+        },
+        {
+          "period": "2023-02",
+          "leads": 347,
+          "contacto": 79.54,
+          "cita": 80.69,
+          "venta_bruta": 78.1,
+          "escrituracion": 80.69
+        },
+        {
+          "period": "2023-03",
+          "leads": 337,
+          "contacto": 79.82,
+          "cita": 81.31,
+          "venta_bruta": 80.12,
+          "escrituracion": 75.67
+        },
+        {
+          "period": "2023-04",
+          "leads": 324,
+          "contacto": 78.7,
+          "cita": 79.63,
+          "venta_bruta": 79.01,
+          "escrituracion": 80.25
+        },
+        {
+          "period": "2023-05",
+          "leads": 343,
+          "contacto": 81.05,
+          "cita": 83.97,
+          "venta_bruta": 78.43,
+          "escrituracion": 81.05
+        },
+        {
+          "period": "2023-06",
+          "leads": 338,
+          "contacto": 75.44,
+          "cita": 81.66,
+          "venta_bruta": 79.29,
+          "escrituracion": 80.77
+        },
+        {
+          "period": "2023-07",
+          "leads": 318,
+          "contacto": 79.87,
+          "cita": 82.7,
+          "venta_bruta": 82.08,
+          "escrituracion": 72.96
+        },
+        {
+          "period": "2023-08",
+          "leads": 332,
+          "contacto": 77.41,
+          "cita": 78.01,
+          "venta_bruta": 79.52,
+          "escrituracion": 77.11
+        },
+        {
+          "period": "2023-09",
+          "leads": 323,
+          "contacto": 79.26,
+          "cita": 79.88,
+          "venta_bruta": 82.97,
+          "escrituracion": 80.5
+        },
+        {
+          "period": "2023-10",
+          "leads": 363,
+          "contacto": 77.69,
+          "cita": 76.31,
+          "venta_bruta": 80.44,
+          "escrituracion": 80.17
+        },
+        {
+          "period": "2023-11",
+          "leads": 336,
+          "contacto": 82.14,
+          "cita": 78.87,
+          "venta_bruta": 83.33,
+          "escrituracion": 77.98
+        },
+        {
+          "period": "2023-12",
+          "leads": 346,
+          "contacto": 78.61,
+          "cita": 85.26,
+          "venta_bruta": 80.64,
+          "escrituracion": 80.92
+        },
+        {
+          "period": "2024-01",
+          "leads": 347,
+          "contacto": 77.81,
+          "cita": 80.69,
+          "venta_bruta": 78.1,
+          "escrituracion": 78.67
+        },
+        {
+          "period": "2024-02",
+          "leads": 366,
+          "contacto": 80.87,
+          "cita": 82.79,
+          "venta_bruta": 82.51,
+          "escrituracion": 80.05
+        },
+        {
+          "period": "2024-03",
+          "leads": 333,
+          "contacto": 78.98,
+          "cita": 84.68,
+          "venta_bruta": 83.18,
+          "escrituracion": 79.88
+        },
+        {
+          "period": "2024-04",
+          "leads": 310,
+          "contacto": 83.55,
+          "cita": 79.35,
+          "venta_bruta": 80.0,
+          "escrituracion": 79.35
+        },
+        {
+          "period": "2024-05",
+          "leads": 310,
+          "contacto": 81.61,
+          "cita": 76.77,
+          "venta_bruta": 81.29,
+          "escrituracion": 80.0
+        },
+        {
+          "period": "2024-06",
+          "leads": 354,
+          "contacto": 78.25,
+          "cita": 83.33,
+          "venta_bruta": 81.36,
+          "escrituracion": 79.94
+        },
+        {
+          "period": "2024-07",
+          "leads": 320,
+          "contacto": 80.0,
+          "cita": 80.31,
+          "venta_bruta": 82.5,
+          "escrituracion": 77.5
+        },
+        {
+          "period": "2024-08",
+          "leads": 324,
+          "contacto": 80.86,
+          "cita": 79.63,
+          "venta_bruta": 82.72,
+          "escrituracion": 79.01
+        },
+        {
+          "period": "2024-09",
+          "leads": 352,
+          "contacto": 78.12,
+          "cita": 79.26,
+          "venta_bruta": 82.95,
+          "escrituracion": 77.84
+        },
+        {
+          "period": "2024-10",
+          "leads": 345,
+          "contacto": 79.13,
+          "cita": 78.55,
+          "venta_bruta": 80.29,
+          "escrituracion": 80.87
+        },
+        {
+          "period": "2024-11",
+          "leads": 334,
+          "contacto": 79.04,
+          "cita": 82.34,
+          "venta_bruta": 79.94,
+          "escrituracion": 82.63
+        },
+        {
+          "period": "2024-12",
+          "leads": 318,
+          "contacto": 78.3,
+          "cita": 78.62,
+          "venta_bruta": 78.93,
+          "escrituracion": 82.39
+        },
+        {
+          "period": "2025-01",
+          "leads": 325,
+          "contacto": 76.92,
+          "cita": 80.0,
+          "venta_bruta": 81.54,
+          "escrituracion": 79.38
+        },
+        {
+          "period": "2025-02",
+          "leads": 320,
+          "contacto": 79.69,
+          "cita": 83.44,
+          "venta_bruta": 81.25,
+          "escrituracion": 74.06
+        },
+        {
+          "period": "2025-03",
+          "leads": 325,
+          "contacto": 77.23,
+          "cita": 78.46,
+          "venta_bruta": 80.0,
+          "escrituracion": 74.15
+        },
+        {
+          "period": "2025-04",
+          "leads": 353,
+          "contacto": 80.74,
+          "cita": 83.29,
+          "venta_bruta": 82.15,
+          "escrituracion": 80.74
+        },
+        {
+          "period": "2025-05",
+          "leads": 354,
+          "contacto": 79.1,
+          "cita": 79.66,
+          "venta_bruta": 81.92,
+          "escrituracion": 78.81
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 5": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 327,
+          "contacto": 81.65,
+          "cita": 81.35,
+          "venta_bruta": 79.2,
+          "escrituracion": 75.54
+        },
+        {
+          "period": "2023-02",
+          "leads": 309,
+          "contacto": 82.85,
+          "cita": 80.91,
+          "venta_bruta": 78.32,
+          "escrituracion": 79.94
+        },
+        {
+          "period": "2023-03",
+          "leads": 338,
+          "contacto": 78.4,
+          "cita": 83.14,
+          "venta_bruta": 82.54,
+          "escrituracion": 77.81
+        },
+        {
+          "period": "2023-04",
+          "leads": 309,
+          "contacto": 79.61,
+          "cita": 83.82,
+          "venta_bruta": 81.55,
+          "escrituracion": 84.79
+        },
+        {
+          "period": "2023-05",
+          "leads": 355,
+          "contacto": 77.46,
+          "cita": 78.31,
+          "venta_bruta": 81.41,
+          "escrituracion": 81.13
+        },
+        {
+          "period": "2023-06",
+          "leads": 358,
+          "contacto": 80.17,
+          "cita": 78.49,
+          "venta_bruta": 82.96,
+          "escrituracion": 82.4
+        },
+        {
+          "period": "2023-07",
+          "leads": 337,
+          "contacto": 76.85,
+          "cita": 81.01,
+          "venta_bruta": 78.34,
+          "escrituracion": 78.64
+        },
+        {
+          "period": "2023-08",
+          "leads": 336,
+          "contacto": 82.14,
+          "cita": 81.55,
+          "venta_bruta": 81.85,
+          "escrituracion": 81.25
+        },
+        {
+          "period": "2023-09",
+          "leads": 335,
+          "contacto": 80.6,
+          "cita": 82.39,
+          "venta_bruta": 78.81,
+          "escrituracion": 78.51
+        },
+        {
+          "period": "2023-10",
+          "leads": 314,
+          "contacto": 79.62,
+          "cita": 80.57,
+          "venta_bruta": 80.25,
+          "escrituracion": 75.48
+        },
+        {
+          "period": "2023-11",
+          "leads": 319,
+          "contacto": 80.56,
+          "cita": 80.56,
+          "venta_bruta": 84.33,
+          "escrituracion": 78.68
+        },
+        {
+          "period": "2023-12",
+          "leads": 328,
+          "contacto": 81.71,
+          "cita": 76.52,
+          "venta_bruta": 79.27,
+          "escrituracion": 82.32
+        },
+        {
+          "period": "2024-01",
+          "leads": 320,
+          "contacto": 80.94,
+          "cita": 77.5,
+          "venta_bruta": 77.81,
+          "escrituracion": 80.94
+        },
+        {
+          "period": "2024-02",
+          "leads": 329,
+          "contacto": 79.94,
+          "cita": 79.94,
+          "venta_bruta": 78.42,
+          "escrituracion": 82.37
+        },
+        {
+          "period": "2024-03",
+          "leads": 319,
+          "contacto": 76.49,
+          "cita": 83.39,
+          "venta_bruta": 74.92,
+          "escrituracion": 82.13
+        },
+        {
+          "period": "2024-04",
+          "leads": 329,
+          "contacto": 77.2,
+          "cita": 77.81,
+          "venta_bruta": 77.81,
+          "escrituracion": 84.19
+        },
+        {
+          "period": "2024-05",
+          "leads": 316,
+          "contacto": 77.85,
+          "cita": 77.53,
+          "venta_bruta": 78.48,
+          "escrituracion": 80.7
+        },
+        {
+          "period": "2024-06",
+          "leads": 351,
+          "contacto": 80.91,
+          "cita": 76.92,
+          "venta_bruta": 82.91,
+          "escrituracion": 77.78
+        },
+        {
+          "period": "2024-07",
+          "leads": 319,
+          "contacto": 75.55,
+          "cita": 78.06,
+          "venta_bruta": 79.62,
+          "escrituracion": 79.62
+        },
+        {
+          "period": "2024-08",
+          "leads": 324,
+          "contacto": 80.25,
+          "cita": 79.94,
+          "venta_bruta": 82.72,
+          "escrituracion": 82.72
+        },
+        {
+          "period": "2024-09",
+          "leads": 345,
+          "contacto": 80.58,
+          "cita": 84.06,
+          "venta_bruta": 82.03,
+          "escrituracion": 80.58
+        },
+        {
+          "period": "2024-10",
+          "leads": 286,
+          "contacto": 84.62,
+          "cita": 81.82,
+          "venta_bruta": 88.46,
+          "escrituracion": 81.82
+        },
+        {
+          "period": "2024-11",
+          "leads": 322,
+          "contacto": 79.81,
+          "cita": 81.37,
+          "venta_bruta": 80.43,
+          "escrituracion": 81.37
+        },
+        {
+          "period": "2024-12",
+          "leads": 333,
+          "contacto": 79.28,
+          "cita": 79.58,
+          "venta_bruta": 82.88,
+          "escrituracion": 77.48
+        },
+        {
+          "period": "2025-01",
+          "leads": 125,
+          "contacto": 80.8,
+          "cita": 80.8,
+          "venta_bruta": 86.4,
+          "escrituracion": 83.2
+        },
+        {
+          "period": "2025-02",
+          "leads": 75,
+          "contacto": 84.0,
+          "cita": 76.0,
+          "venta_bruta": 85.33,
+          "escrituracion": 76.0
+        },
+        {
+          "period": "2025-03",
+          "leads": 152,
+          "contacto": 82.24,
+          "cita": 78.29,
+          "venta_bruta": 76.32,
+          "escrituracion": 85.53
+        },
+        {
+          "period": "2025-04",
+          "leads": 79,
+          "contacto": 79.75,
+          "cita": 74.68,
+          "venta_bruta": 73.42,
+          "escrituracion": 79.75
+        },
+        {
+          "period": "2025-05",
+          "leads": 142,
+          "contacto": 78.87,
+          "cita": 80.99,
+          "venta_bruta": 78.17,
+          "escrituracion": 79.58
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 4": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 322,
+          "contacto": 78.26,
+          "cita": 80.43,
+          "venta_bruta": 82.92,
+          "escrituracion": 79.5
+        },
+        {
+          "period": "2023-02",
+          "leads": 369,
+          "contacto": 80.49,
+          "cita": 82.38,
+          "venta_bruta": 81.03,
+          "escrituracion": 79.13
+        },
+        {
+          "period": "2023-03",
+          "leads": 347,
+          "contacto": 80.69,
+          "cita": 77.52,
+          "venta_bruta": 76.08,
+          "escrituracion": 81.84
+        },
+        {
+          "period": "2023-04",
+          "leads": 325,
+          "contacto": 79.08,
+          "cita": 83.38,
+          "venta_bruta": 78.77,
+          "escrituracion": 83.38
+        },
+        {
+          "period": "2023-05",
+          "leads": 349,
+          "contacto": 79.37,
+          "cita": 81.66,
+          "venta_bruta": 77.94,
+          "escrituracion": 79.94
+        },
+        {
+          "period": "2023-06",
+          "leads": 335,
+          "contacto": 79.4,
+          "cita": 79.1,
+          "venta_bruta": 79.1,
+          "escrituracion": 78.51
+        },
+        {
+          "period": "2023-07",
+          "leads": 344,
+          "contacto": 78.78,
+          "cita": 77.33,
+          "venta_bruta": 81.1,
+          "escrituracion": 84.3
+        },
+        {
+          "period": "2023-08",
+          "leads": 372,
+          "contacto": 81.45,
+          "cita": 82.26,
+          "venta_bruta": 76.61,
+          "escrituracion": 79.3
+        },
+        {
+          "period": "2023-09",
+          "leads": 316,
+          "contacto": 82.59,
+          "cita": 79.75,
+          "venta_bruta": 81.01,
+          "escrituracion": 79.43
+        },
+        {
+          "period": "2023-10",
+          "leads": 341,
+          "contacto": 79.77,
+          "cita": 78.89,
+          "venta_bruta": 79.18,
+          "escrituracion": 75.95
+        },
+        {
+          "period": "2023-11",
+          "leads": 331,
+          "contacto": 77.64,
+          "cita": 82.78,
+          "venta_bruta": 83.69,
+          "escrituracion": 80.97
+        },
+        {
+          "period": "2023-12",
+          "leads": 342,
+          "contacto": 78.36,
+          "cita": 78.07,
+          "venta_bruta": 82.16,
+          "escrituracion": 80.99
+        },
+        {
+          "period": "2024-01",
+          "leads": 307,
+          "contacto": 78.83,
+          "cita": 79.15,
+          "venta_bruta": 77.52,
+          "escrituracion": 83.06
+        },
+        {
+          "period": "2024-02",
+          "leads": 376,
+          "contacto": 79.26,
+          "cita": 81.65,
+          "venta_bruta": 82.18,
+          "escrituracion": 81.12
+        },
+        {
+          "period": "2024-03",
+          "leads": 332,
+          "contacto": 79.82,
+          "cita": 81.33,
+          "venta_bruta": 77.71,
+          "escrituracion": 78.61
+        },
+        {
+          "period": "2024-04",
+          "leads": 333,
+          "contacto": 80.18,
+          "cita": 78.68,
+          "venta_bruta": 77.78,
+          "escrituracion": 83.18
+        },
+        {
+          "period": "2024-05",
+          "leads": 326,
+          "contacto": 84.66,
+          "cita": 80.67,
+          "venta_bruta": 81.9,
+          "escrituracion": 80.98
+        },
+        {
+          "period": "2024-06",
+          "leads": 312,
+          "contacto": 76.92,
+          "cita": 78.53,
+          "venta_bruta": 79.17,
+          "escrituracion": 79.49
+        },
+        {
+          "period": "2024-07",
+          "leads": 313,
+          "contacto": 80.19,
+          "cita": 80.83,
+          "venta_bruta": 78.59,
+          "escrituracion": 80.19
+        },
+        {
+          "period": "2024-08",
+          "leads": 353,
+          "contacto": 73.94,
+          "cita": 79.6,
+          "venta_bruta": 84.42,
+          "escrituracion": 79.32
+        },
+        {
+          "period": "2024-09",
+          "leads": 330,
+          "contacto": 76.06,
+          "cita": 81.52,
+          "venta_bruta": 81.21,
+          "escrituracion": 83.03
+        },
+        {
+          "period": "2024-10",
+          "leads": 337,
+          "contacto": 80.12,
+          "cita": 79.53,
+          "venta_bruta": 81.6,
+          "escrituracion": 79.82
+        },
+        {
+          "period": "2024-11",
+          "leads": 353,
+          "contacto": 81.87,
+          "cita": 83.85,
+          "venta_bruta": 79.04,
+          "escrituracion": 78.75
+        },
+        {
+          "period": "2024-12",
+          "leads": 310,
+          "contacto": 78.06,
+          "cita": 81.61,
+          "venta_bruta": 76.45,
+          "escrituracion": 77.74
+        },
+        {
+          "period": "2025-01",
+          "leads": 314,
+          "contacto": 84.39,
+          "cita": 86.94,
+          "venta_bruta": 79.94,
+          "escrituracion": 80.25
+        },
+        {
+          "period": "2025-02",
+          "leads": 340,
+          "contacto": 77.06,
+          "cita": 79.41,
+          "venta_bruta": 81.76,
+          "escrituracion": 77.06
+        },
+        {
+          "period": "2025-03",
+          "leads": 330,
+          "contacto": 79.39,
+          "cita": 80.0,
+          "venta_bruta": 77.27,
+          "escrituracion": 76.36
+        },
+        {
+          "period": "2025-04",
+          "leads": 332,
+          "contacto": 79.22,
+          "cita": 80.12,
+          "venta_bruta": 76.51,
+          "escrituracion": 79.52
+        },
+        {
+          "period": "2025-05",
+          "leads": 334,
+          "contacto": 83.53,
+          "cita": 80.24,
+          "venta_bruta": 81.74,
+          "escrituracion": 83.83
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 10": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 328,
+          "contacto": 78.66,
+          "cita": 77.13,
+          "venta_bruta": 80.79,
+          "escrituracion": 83.84
+        },
+        {
+          "period": "2023-02",
+          "leads": 297,
+          "contacto": 81.48,
+          "cita": 77.78,
+          "venta_bruta": 79.12,
+          "escrituracion": 77.1
+        },
+        {
+          "period": "2023-03",
+          "leads": 351,
+          "contacto": 79.49,
+          "cita": 80.06,
+          "venta_bruta": 80.63,
+          "escrituracion": 81.77
+        },
+        {
+          "period": "2023-04",
+          "leads": 308,
+          "contacto": 81.82,
+          "cita": 82.79,
+          "venta_bruta": 84.74,
+          "escrituracion": 84.42
+        },
+        {
+          "period": "2023-05",
+          "leads": 312,
+          "contacto": 83.33,
+          "cita": 80.77,
+          "venta_bruta": 77.24,
+          "escrituracion": 82.69
+        },
+        {
+          "period": "2023-06",
+          "leads": 302,
+          "contacto": 77.48,
+          "cita": 82.45,
+          "venta_bruta": 81.79,
+          "escrituracion": 78.48
+        },
+        {
+          "period": "2023-07",
+          "leads": 360,
+          "contacto": 80.0,
+          "cita": 79.72,
+          "venta_bruta": 80.56,
+          "escrituracion": 82.78
+        },
+        {
+          "period": "2023-08",
+          "leads": 323,
+          "contacto": 80.8,
+          "cita": 81.73,
+          "venta_bruta": 76.78,
+          "escrituracion": 80.8
+        },
+        {
+          "period": "2023-09",
+          "leads": 336,
+          "contacto": 83.33,
+          "cita": 78.87,
+          "venta_bruta": 80.95,
+          "escrituracion": 77.38
+        },
+        {
+          "period": "2023-10",
+          "leads": 368,
+          "contacto": 81.79,
+          "cita": 83.42,
+          "venta_bruta": 81.52,
+          "escrituracion": 78.53
+        },
+        {
+          "period": "2023-11",
+          "leads": 317,
+          "contacto": 78.55,
+          "cita": 80.44,
+          "venta_bruta": 76.97,
+          "escrituracion": 85.17
+        },
+        {
+          "period": "2023-12",
+          "leads": 340,
+          "contacto": 78.24,
+          "cita": 81.47,
+          "venta_bruta": 82.06,
+          "escrituracion": 81.18
+        },
+        {
+          "period": "2024-01",
+          "leads": 342,
+          "contacto": 81.87,
+          "cita": 79.24,
+          "venta_bruta": 83.33,
+          "escrituracion": 80.12
+        },
+        {
+          "period": "2024-02",
+          "leads": 353,
+          "contacto": 77.05,
+          "cita": 79.32,
+          "venta_bruta": 78.75,
+          "escrituracion": 82.72
+        },
+        {
+          "period": "2024-03",
+          "leads": 338,
+          "contacto": 79.59,
+          "cita": 83.43,
+          "venta_bruta": 78.4,
+          "escrituracion": 83.43
+        },
+        {
+          "period": "2024-04",
+          "leads": 323,
+          "contacto": 78.95,
+          "cita": 82.97,
+          "venta_bruta": 79.57,
+          "escrituracion": 80.8
+        },
+        {
+          "period": "2024-05",
+          "leads": 325,
+          "contacto": 82.46,
+          "cita": 79.69,
+          "venta_bruta": 79.38,
+          "escrituracion": 78.46
+        },
+        {
+          "period": "2024-06",
+          "leads": 330,
+          "contacto": 81.52,
+          "cita": 78.79,
+          "venta_bruta": 77.58,
+          "escrituracion": 76.06
+        },
+        {
+          "period": "2024-07",
+          "leads": 344,
+          "contacto": 76.45,
+          "cita": 79.94,
+          "venta_bruta": 78.2,
+          "escrituracion": 81.1
+        },
+        {
+          "period": "2024-08",
+          "leads": 321,
+          "contacto": 81.62,
+          "cita": 79.13,
+          "venta_bruta": 80.37,
+          "escrituracion": 81.0
+        },
+        {
+          "period": "2024-09",
+          "leads": 324,
+          "contacto": 77.16,
+          "cita": 84.88,
+          "venta_bruta": 75.62,
+          "escrituracion": 83.64
+        },
+        {
+          "period": "2024-10",
+          "leads": 321,
+          "contacto": 84.11,
+          "cita": 79.13,
+          "venta_bruta": 80.06,
+          "escrituracion": 78.5
+        },
+        {
+          "period": "2024-11",
+          "leads": 315,
+          "contacto": 82.86,
+          "cita": 77.46,
+          "venta_bruta": 81.27,
+          "escrituracion": 83.49
+        },
+        {
+          "period": "2024-12",
+          "leads": 346,
+          "contacto": 79.19,
+          "cita": 80.35,
+          "venta_bruta": 75.43,
+          "escrituracion": 78.03
+        },
+        {
+          "period": "2025-01",
+          "leads": 361,
+          "contacto": 80.89,
+          "cita": 79.78,
+          "venta_bruta": 82.27,
+          "escrituracion": 78.12
+        },
+        {
+          "period": "2025-02",
+          "leads": 363,
+          "contacto": 78.51,
+          "cita": 79.06,
+          "venta_bruta": 80.72,
+          "escrituracion": 82.92
+        },
+        {
+          "period": "2025-03",
+          "leads": 328,
+          "contacto": 78.35,
+          "cita": 77.44,
+          "venta_bruta": 81.1,
+          "escrituracion": 78.96
+        },
+        {
+          "period": "2025-04",
+          "leads": 308,
+          "contacto": 79.87,
+          "cita": 82.79,
+          "venta_bruta": 82.79,
+          "escrituracion": 83.12
+        },
+        {
+          "period": "2025-05",
+          "leads": 339,
+          "contacto": 81.42,
+          "cita": 81.42,
+          "venta_bruta": 79.65,
+          "escrituracion": 78.47
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 11": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 330,
+          "contacto": 78.18,
+          "cita": 77.27,
+          "venta_bruta": 80.0,
+          "escrituracion": 79.39
+        },
+        {
+          "period": "2023-02",
+          "leads": 335,
+          "contacto": 79.4,
+          "cita": 80.3,
+          "venta_bruta": 79.4,
+          "escrituracion": 80.6
+        },
+        {
+          "period": "2023-03",
+          "leads": 329,
+          "contacto": 78.42,
+          "cita": 81.16,
+          "venta_bruta": 82.67,
+          "escrituracion": 79.64
+        },
+        {
+          "period": "2023-04",
+          "leads": 362,
+          "contacto": 79.83,
+          "cita": 81.49,
+          "venta_bruta": 75.41,
+          "escrituracion": 78.73
+        },
+        {
+          "period": "2023-05",
+          "leads": 344,
+          "contacto": 79.65,
+          "cita": 81.98,
+          "venta_bruta": 80.81,
+          "escrituracion": 81.98
+        },
+        {
+          "period": "2023-06",
+          "leads": 311,
+          "contacto": 75.56,
+          "cita": 77.81,
+          "venta_bruta": 84.24,
+          "escrituracion": 79.42
+        },
+        {
+          "period": "2023-07",
+          "leads": 308,
+          "contacto": 81.82,
+          "cita": 79.87,
+          "venta_bruta": 79.87,
+          "escrituracion": 80.19
+        },
+        {
+          "period": "2023-08",
+          "leads": 307,
+          "contacto": 76.87,
+          "cita": 81.11,
+          "venta_bruta": 80.46,
+          "escrituracion": 81.11
+        },
+        {
+          "period": "2023-09",
+          "leads": 337,
+          "contacto": 79.23,
+          "cita": 78.64,
+          "venta_bruta": 78.93,
+          "escrituracion": 77.45
+        },
+        {
+          "period": "2023-10",
+          "leads": 312,
+          "contacto": 81.09,
+          "cita": 81.41,
+          "venta_bruta": 79.81,
+          "escrituracion": 80.13
+        },
+        {
+          "period": "2023-11",
+          "leads": 329,
+          "contacto": 75.68,
+          "cita": 78.42,
+          "venta_bruta": 79.33,
+          "escrituracion": 79.94
+        },
+        {
+          "period": "2023-12",
+          "leads": 325,
+          "contacto": 79.69,
+          "cita": 78.77,
+          "venta_bruta": 77.23,
+          "escrituracion": 78.46
+        },
+        {
+          "period": "2024-01",
+          "leads": 367,
+          "contacto": 80.65,
+          "cita": 76.57,
+          "venta_bruta": 83.65,
+          "escrituracion": 79.29
+        },
+        {
+          "period": "2024-02",
+          "leads": 330,
+          "contacto": 83.33,
+          "cita": 85.15,
+          "venta_bruta": 79.7,
+          "escrituracion": 78.79
+        },
+        {
+          "period": "2024-03",
+          "leads": 307,
+          "contacto": 79.48,
+          "cita": 77.85,
+          "venta_bruta": 79.8,
+          "escrituracion": 81.76
+        },
+        {
+          "period": "2024-04",
+          "leads": 357,
+          "contacto": 79.83,
+          "cita": 78.15,
+          "venta_bruta": 78.15,
+          "escrituracion": 78.71
+        },
+        {
+          "period": "2024-05",
+          "leads": 334,
+          "contacto": 81.44,
+          "cita": 76.35,
+          "venta_bruta": 82.34,
+          "escrituracion": 79.34
+        },
+        {
+          "period": "2024-06",
+          "leads": 341,
+          "contacto": 76.54,
+          "cita": 79.77,
+          "venta_bruta": 79.47,
+          "escrituracion": 82.99
+        },
+        {
+          "period": "2024-07",
+          "leads": 342,
+          "contacto": 82.46,
+          "cita": 78.95,
+          "venta_bruta": 84.5,
+          "escrituracion": 82.16
+        },
+        {
+          "period": "2024-08",
+          "leads": 338,
+          "contacto": 84.02,
+          "cita": 78.4,
+          "venta_bruta": 78.11,
+          "escrituracion": 81.07
+        },
+        {
+          "period": "2024-09",
+          "leads": 349,
+          "contacto": 80.8,
+          "cita": 79.66,
+          "venta_bruta": 82.52,
+          "escrituracion": 79.37
+        },
+        {
+          "period": "2024-10",
+          "leads": 339,
+          "contacto": 80.53,
+          "cita": 81.12,
+          "venta_bruta": 78.47,
+          "escrituracion": 81.12
+        },
+        {
+          "period": "2024-11",
+          "leads": 345,
+          "contacto": 78.84,
+          "cita": 79.13,
+          "venta_bruta": 80.29,
+          "escrituracion": 80.58
+        },
+        {
+          "period": "2024-12",
+          "leads": 322,
+          "contacto": 84.16,
+          "cita": 79.5,
+          "venta_bruta": 79.5,
+          "escrituracion": 79.5
+        },
+        {
+          "period": "2025-01",
+          "leads": 125,
+          "contacto": 75.2,
+          "cita": 72.0,
+          "venta_bruta": 80.8,
+          "escrituracion": 80.8
+        },
+        {
+          "period": "2025-02",
+          "leads": 92,
+          "contacto": 80.43,
+          "cita": 82.61,
+          "venta_bruta": 76.09,
+          "escrituracion": 82.61
+        },
+        {
+          "period": "2025-03",
+          "leads": 147,
+          "contacto": 81.63,
+          "cita": 74.83,
+          "venta_bruta": 82.99,
+          "escrituracion": 82.31
+        },
+        {
+          "period": "2025-04",
+          "leads": 71,
+          "contacto": 76.06,
+          "cita": 81.69,
+          "venta_bruta": 80.28,
+          "escrituracion": 76.06
+        },
+        {
+          "period": "2025-05",
+          "leads": 159,
+          "contacto": 74.84,
+          "cita": 73.58,
+          "venta_bruta": 81.76,
+          "escrituracion": 81.13
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 7": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 356,
+          "contacto": 79.78,
+          "cita": 82.3,
+          "venta_bruta": 79.21,
+          "escrituracion": 77.81
+        },
+        {
+          "period": "2023-02",
+          "leads": 326,
+          "contacto": 76.38,
+          "cita": 76.99,
+          "venta_bruta": 83.13,
+          "escrituracion": 79.45
+        },
+        {
+          "period": "2023-03",
+          "leads": 317,
+          "contacto": 83.91,
+          "cita": 85.17,
+          "venta_bruta": 81.7,
+          "escrituracion": 76.34
+        },
+        {
+          "period": "2023-04",
+          "leads": 333,
+          "contacto": 77.78,
+          "cita": 79.58,
+          "venta_bruta": 80.18,
+          "escrituracion": 81.68
+        },
+        {
+          "period": "2023-05",
+          "leads": 348,
+          "contacto": 78.74,
+          "cita": 79.31,
+          "venta_bruta": 79.6,
+          "escrituracion": 82.76
+        },
+        {
+          "period": "2023-06",
+          "leads": 308,
+          "contacto": 80.19,
+          "cita": 80.84,
+          "venta_bruta": 83.12,
+          "escrituracion": 79.55
+        },
+        {
+          "period": "2023-07",
+          "leads": 323,
+          "contacto": 76.78,
+          "cita": 83.59,
+          "venta_bruta": 78.95,
+          "escrituracion": 80.5
+        },
+        {
+          "period": "2023-08",
+          "leads": 333,
+          "contacto": 80.18,
+          "cita": 79.58,
+          "venta_bruta": 81.08,
+          "escrituracion": 79.28
+        },
+        {
+          "period": "2023-09",
+          "leads": 305,
+          "contacto": 79.67,
+          "cita": 83.93,
+          "venta_bruta": 81.97,
+          "escrituracion": 80.98
+        },
+        {
+          "period": "2023-10",
+          "leads": 317,
+          "contacto": 82.33,
+          "cita": 79.5,
+          "venta_bruta": 81.7,
+          "escrituracion": 81.07
+        },
+        {
+          "period": "2023-11",
+          "leads": 322,
+          "contacto": 83.54,
+          "cita": 81.06,
+          "venta_bruta": 81.68,
+          "escrituracion": 77.95
+        },
+        {
+          "period": "2023-12",
+          "leads": 339,
+          "contacto": 77.58,
+          "cita": 76.99,
+          "venta_bruta": 80.53,
+          "escrituracion": 78.17
+        },
+        {
+          "period": "2024-01",
+          "leads": 308,
+          "contacto": 79.87,
+          "cita": 83.44,
+          "venta_bruta": 77.27,
+          "escrituracion": 82.14
+        },
+        {
+          "period": "2024-02",
+          "leads": 369,
+          "contacto": 82.11,
+          "cita": 81.03,
+          "venta_bruta": 79.67,
+          "escrituracion": 78.59
+        },
+        {
+          "period": "2024-03",
+          "leads": 323,
+          "contacto": 78.95,
+          "cita": 83.28,
+          "venta_bruta": 78.95,
+          "escrituracion": 78.33
+        },
+        {
+          "period": "2024-04",
+          "leads": 335,
+          "contacto": 82.69,
+          "cita": 82.99,
+          "venta_bruta": 79.4,
+          "escrituracion": 79.4
+        },
+        {
+          "period": "2024-05",
+          "leads": 343,
+          "contacto": 76.68,
+          "cita": 78.13,
+          "venta_bruta": 79.59,
+          "escrituracion": 74.93
+        },
+        {
+          "period": "2024-06",
+          "leads": 351,
+          "contacto": 80.34,
+          "cita": 80.06,
+          "venta_bruta": 81.2,
+          "escrituracion": 77.78
+        },
+        {
+          "period": "2024-07",
+          "leads": 354,
+          "contacto": 82.49,
+          "cita": 83.05,
+          "venta_bruta": 80.51,
+          "escrituracion": 80.23
+        },
+        {
+          "period": "2024-08",
+          "leads": 317,
+          "contacto": 77.92,
+          "cita": 79.18,
+          "venta_bruta": 82.97,
+          "escrituracion": 81.7
+        },
+        {
+          "period": "2024-09",
+          "leads": 328,
+          "contacto": 81.1,
+          "cita": 78.05,
+          "venta_bruta": 82.32,
+          "escrituracion": 83.23
+        },
+        {
+          "period": "2024-10",
+          "leads": 371,
+          "contacto": 80.59,
+          "cita": 78.17,
+          "venta_bruta": 78.98,
+          "escrituracion": 80.32
+        },
+        {
+          "period": "2024-11",
+          "leads": 364,
+          "contacto": 84.62,
+          "cita": 76.37,
+          "venta_bruta": 81.87,
+          "escrituracion": 81.32
+        },
+        {
+          "period": "2024-12",
+          "leads": 345,
+          "contacto": 81.74,
+          "cita": 77.97,
+          "venta_bruta": 82.9,
+          "escrituracion": 81.74
+        },
+        {
+          "period": "2025-01",
+          "leads": 122,
+          "contacto": 81.15,
+          "cita": 82.79,
+          "venta_bruta": 81.97,
+          "escrituracion": 86.89
+        },
+        {
+          "period": "2025-02",
+          "leads": 83,
+          "contacto": 83.13,
+          "cita": 79.52,
+          "venta_bruta": 75.9,
+          "escrituracion": 79.52
+        },
+        {
+          "period": "2025-03",
+          "leads": 158,
+          "contacto": 79.75,
+          "cita": 82.91,
+          "venta_bruta": 77.22,
+          "escrituracion": 79.75
+        },
+        {
+          "period": "2025-04",
+          "leads": 87,
+          "contacto": 79.31,
+          "cita": 80.46,
+          "venta_bruta": 77.01,
+          "escrituracion": 80.46
+        },
+        {
+          "period": "2025-05",
+          "leads": 134,
+          "contacto": 82.09,
+          "cita": 85.07,
+          "venta_bruta": 77.61,
+          "escrituracion": 80.6
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 8": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 343,
+          "contacto": 75.51,
+          "cita": 80.47,
+          "venta_bruta": 81.05,
+          "escrituracion": 81.34
+        },
+        {
+          "period": "2023-02",
+          "leads": 326,
+          "contacto": 81.6,
+          "cita": 77.61,
+          "venta_bruta": 80.98,
+          "escrituracion": 80.67
+        },
+        {
+          "period": "2023-03",
+          "leads": 348,
+          "contacto": 79.02,
+          "cita": 81.03,
+          "venta_bruta": 82.76,
+          "escrituracion": 80.75
+        },
+        {
+          "period": "2023-04",
+          "leads": 344,
+          "contacto": 77.62,
+          "cita": 77.62,
+          "venta_bruta": 73.84,
+          "escrituracion": 80.52
+        },
+        {
+          "period": "2023-05",
+          "leads": 333,
+          "contacto": 78.68,
+          "cita": 79.88,
+          "venta_bruta": 80.78,
+          "escrituracion": 82.28
+        },
+        {
+          "period": "2023-06",
+          "leads": 325,
+          "contacto": 78.46,
+          "cita": 77.23,
+          "venta_bruta": 79.38,
+          "escrituracion": 79.38
+        },
+        {
+          "period": "2023-07",
+          "leads": 339,
+          "contacto": 79.06,
+          "cita": 77.29,
+          "venta_bruta": 80.83,
+          "escrituracion": 81.42
+        },
+        {
+          "period": "2023-08",
+          "leads": 359,
+          "contacto": 79.67,
+          "cita": 79.11,
+          "venta_bruta": 77.72,
+          "escrituracion": 78.55
+        },
+        {
+          "period": "2023-09",
+          "leads": 335,
+          "contacto": 75.52,
+          "cita": 82.39,
+          "venta_bruta": 80.6,
+          "escrituracion": 81.79
+        },
+        {
+          "period": "2023-10",
+          "leads": 336,
+          "contacto": 77.98,
+          "cita": 78.57,
+          "venta_bruta": 79.17,
+          "escrituracion": 82.14
+        },
+        {
+          "period": "2023-11",
+          "leads": 327,
+          "contacto": 81.65,
+          "cita": 78.9,
+          "venta_bruta": 82.57,
+          "escrituracion": 80.12
+        },
+        {
+          "period": "2023-12",
+          "leads": 339,
+          "contacto": 80.24,
+          "cita": 77.58,
+          "venta_bruta": 82.01,
+          "escrituracion": 83.19
+        },
+        {
+          "period": "2024-01",
+          "leads": 322,
+          "contacto": 82.61,
+          "cita": 79.81,
+          "venta_bruta": 77.33,
+          "escrituracion": 80.75
+        },
+        {
+          "period": "2024-02",
+          "leads": 345,
+          "contacto": 80.87,
+          "cita": 80.29,
+          "venta_bruta": 77.97,
+          "escrituracion": 77.68
+        },
+        {
+          "period": "2024-03",
+          "leads": 318,
+          "contacto": 81.45,
+          "cita": 81.45,
+          "venta_bruta": 72.96,
+          "escrituracion": 83.96
+        },
+        {
+          "period": "2024-04",
+          "leads": 295,
+          "contacto": 80.34,
+          "cita": 84.07,
+          "venta_bruta": 80.34,
+          "escrituracion": 80.0
+        },
+        {
+          "period": "2024-05",
+          "leads": 359,
+          "contacto": 82.45,
+          "cita": 79.39,
+          "venta_bruta": 79.94,
+          "escrituracion": 81.89
+        },
+        {
+          "period": "2024-06",
+          "leads": 366,
+          "contacto": 80.87,
+          "cita": 79.51,
+          "venta_bruta": 78.42,
+          "escrituracion": 82.24
+        },
+        {
+          "period": "2024-07",
+          "leads": 324,
+          "contacto": 81.17,
+          "cita": 77.47,
+          "venta_bruta": 79.63,
+          "escrituracion": 81.79
+        },
+        {
+          "period": "2024-08",
+          "leads": 349,
+          "contacto": 81.95,
+          "cita": 80.52,
+          "venta_bruta": 85.96,
+          "escrituracion": 79.66
+        },
+        {
+          "period": "2024-09",
+          "leads": 341,
+          "contacto": 78.59,
+          "cita": 80.35,
+          "venta_bruta": 80.35,
+          "escrituracion": 76.54
+        },
+        {
+          "period": "2024-10",
+          "leads": 351,
+          "contacto": 77.49,
+          "cita": 74.93,
+          "venta_bruta": 82.91,
+          "escrituracion": 76.07
+        },
+        {
+          "period": "2024-11",
+          "leads": 356,
+          "contacto": 79.21,
+          "cita": 80.06,
+          "venta_bruta": 82.58,
+          "escrituracion": 78.37
+        },
+        {
+          "period": "2024-12",
+          "leads": 318,
+          "contacto": 78.3,
+          "cita": 81.45,
+          "venta_bruta": 79.25,
+          "escrituracion": 78.3
+        },
+        {
+          "period": "2025-01",
+          "leads": 340,
+          "contacto": 80.88,
+          "cita": 80.88,
+          "venta_bruta": 79.41,
+          "escrituracion": 80.29
+        },
+        {
+          "period": "2025-02",
+          "leads": 351,
+          "contacto": 80.91,
+          "cita": 82.34,
+          "venta_bruta": 78.06,
+          "escrituracion": 81.77
+        },
+        {
+          "period": "2025-03",
+          "leads": 336,
+          "contacto": 81.85,
+          "cita": 80.95,
+          "venta_bruta": 77.38,
+          "escrituracion": 80.06
+        },
+        {
+          "period": "2025-04",
+          "leads": 354,
+          "contacto": 81.36,
+          "cita": 80.51,
+          "venta_bruta": 78.53,
+          "escrituracion": 80.23
+        },
+        {
+          "period": "2025-05",
+          "leads": 324,
+          "contacto": 83.33,
+          "cita": 81.79,
+          "venta_bruta": 83.02,
+          "escrituracion": 81.79
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 15": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 322,
+          "contacto": 81.99,
+          "cita": 77.02,
+          "venta_bruta": 78.88,
+          "escrituracion": 83.54
+        },
+        {
+          "period": "2023-02",
+          "leads": 329,
+          "contacto": 81.46,
+          "cita": 82.67,
+          "venta_bruta": 79.94,
+          "escrituracion": 83.28
+        },
+        {
+          "period": "2023-03",
+          "leads": 336,
+          "contacto": 82.14,
+          "cita": 78.27,
+          "venta_bruta": 80.95,
+          "escrituracion": 80.95
+        },
+        {
+          "period": "2023-04",
+          "leads": 310,
+          "contacto": 81.29,
+          "cita": 81.61,
+          "venta_bruta": 80.32,
+          "escrituracion": 79.35
+        },
+        {
+          "period": "2023-05",
+          "leads": 316,
+          "contacto": 80.7,
+          "cita": 82.28,
+          "venta_bruta": 81.33,
+          "escrituracion": 77.22
+        },
+        {
+          "period": "2023-06",
+          "leads": 372,
+          "contacto": 79.57,
+          "cita": 81.45,
+          "venta_bruta": 79.84,
+          "escrituracion": 80.38
+        },
+        {
+          "period": "2023-07",
+          "leads": 308,
+          "contacto": 80.84,
+          "cita": 81.17,
+          "venta_bruta": 80.19,
+          "escrituracion": 82.14
+        },
+        {
+          "period": "2023-08",
+          "leads": 329,
+          "contacto": 79.64,
+          "cita": 79.03,
+          "venta_bruta": 79.94,
+          "escrituracion": 77.81
+        },
+        {
+          "period": "2023-09",
+          "leads": 376,
+          "contacto": 79.79,
+          "cita": 79.26,
+          "venta_bruta": 81.38,
+          "escrituracion": 80.05
+        },
+        {
+          "period": "2023-10",
+          "leads": 346,
+          "contacto": 78.9,
+          "cita": 79.48,
+          "venta_bruta": 81.21,
+          "escrituracion": 80.92
+        },
+        {
+          "period": "2023-11",
+          "leads": 369,
+          "contacto": 77.24,
+          "cita": 80.49,
+          "venta_bruta": 80.76,
+          "escrituracion": 81.03
+        },
+        {
+          "period": "2023-12",
+          "leads": 343,
+          "contacto": 78.43,
+          "cita": 80.17,
+          "venta_bruta": 85.42,
+          "escrituracion": 79.3
+        },
+        {
+          "period": "2024-01",
+          "leads": 350,
+          "contacto": 81.43,
+          "cita": 81.14,
+          "venta_bruta": 81.14,
+          "escrituracion": 81.71
+        },
+        {
+          "period": "2024-02",
+          "leads": 322,
+          "contacto": 79.19,
+          "cita": 79.5,
+          "venta_bruta": 80.43,
+          "escrituracion": 76.09
+        },
+        {
+          "period": "2024-03",
+          "leads": 347,
+          "contacto": 80.4,
+          "cita": 82.71,
+          "venta_bruta": 80.98,
+          "escrituracion": 81.27
+        },
+        {
+          "period": "2024-04",
+          "leads": 345,
+          "contacto": 82.32,
+          "cita": 78.84,
+          "venta_bruta": 78.26,
+          "escrituracion": 77.39
+        },
+        {
+          "period": "2024-05",
+          "leads": 355,
+          "contacto": 80.56,
+          "cita": 80.85,
+          "venta_bruta": 80.85,
+          "escrituracion": 81.97
+        },
+        {
+          "period": "2024-06",
+          "leads": 352,
+          "contacto": 81.53,
+          "cita": 79.26,
+          "venta_bruta": 81.53,
+          "escrituracion": 78.41
+        },
+        {
+          "period": "2024-07",
+          "leads": 329,
+          "contacto": 79.94,
+          "cita": 82.67,
+          "venta_bruta": 79.64,
+          "escrituracion": 79.94
+        },
+        {
+          "period": "2024-08",
+          "leads": 317,
+          "contacto": 79.5,
+          "cita": 81.7,
+          "venta_bruta": 78.86,
+          "escrituracion": 81.07
+        },
+        {
+          "period": "2024-09",
+          "leads": 316,
+          "contacto": 81.33,
+          "cita": 79.75,
+          "venta_bruta": 76.27,
+          "escrituracion": 81.96
+        },
+        {
+          "period": "2024-10",
+          "leads": 353,
+          "contacto": 79.6,
+          "cita": 79.04,
+          "venta_bruta": 78.19,
+          "escrituracion": 77.05
+        },
+        {
+          "period": "2024-11",
+          "leads": 340,
+          "contacto": 79.71,
+          "cita": 81.47,
+          "venta_bruta": 82.65,
+          "escrituracion": 77.94
+        },
+        {
+          "period": "2024-12",
+          "leads": 350,
+          "contacto": 77.43,
+          "cita": 75.71,
+          "venta_bruta": 79.43,
+          "escrituracion": 79.43
+        },
+        {
+          "period": "2025-01",
+          "leads": 141,
+          "contacto": 85.11,
+          "cita": 84.4,
+          "venta_bruta": 83.69,
+          "escrituracion": 81.56
+        },
+        {
+          "period": "2025-02",
+          "leads": 96,
+          "contacto": 72.92,
+          "cita": 78.12,
+          "venta_bruta": 72.92,
+          "escrituracion": 82.29
+        },
+        {
+          "period": "2025-03",
+          "leads": 167,
+          "contacto": 79.04,
+          "cita": 75.45,
+          "venta_bruta": 82.04,
+          "escrituracion": 80.24
+        },
+        {
+          "period": "2025-04",
+          "leads": 77,
+          "contacto": 74.03,
+          "cita": 75.32,
+          "venta_bruta": 81.82,
+          "escrituracion": 83.12
+        },
+        {
+          "period": "2025-05",
+          "leads": 137,
+          "contacto": 81.75,
+          "cita": 77.37,
+          "venta_bruta": 77.37,
+          "escrituracion": 81.75
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 12": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 338,
+          "contacto": 77.81,
+          "cita": 82.25,
+          "venta_bruta": 79.29,
+          "escrituracion": 80.18
+        },
+        {
+          "period": "2023-02",
+          "leads": 330,
+          "contacto": 79.39,
+          "cita": 82.42,
+          "venta_bruta": 80.61,
+          "escrituracion": 83.33
+        },
+        {
+          "period": "2023-03",
+          "leads": 357,
+          "contacto": 78.99,
+          "cita": 83.19,
+          "venta_bruta": 80.67,
+          "escrituracion": 79.83
+        },
+        {
+          "period": "2023-04",
+          "leads": 347,
+          "contacto": 80.98,
+          "cita": 84.15,
+          "venta_bruta": 78.96,
+          "escrituracion": 77.23
+        },
+        {
+          "period": "2023-05",
+          "leads": 357,
+          "contacto": 79.83,
+          "cita": 77.31,
+          "venta_bruta": 81.79,
+          "escrituracion": 78.99
+        },
+        {
+          "period": "2023-06",
+          "leads": 339,
+          "contacto": 82.3,
+          "cita": 82.01,
+          "venta_bruta": 80.24,
+          "escrituracion": 80.83
+        },
+        {
+          "period": "2023-07",
+          "leads": 339,
+          "contacto": 80.24,
+          "cita": 82.01,
+          "venta_bruta": 82.01,
+          "escrituracion": 82.6
+        },
+        {
+          "period": "2023-08",
+          "leads": 297,
+          "contacto": 79.12,
+          "cita": 78.45,
+          "venta_bruta": 82.15,
+          "escrituracion": 79.8
+        },
+        {
+          "period": "2023-09",
+          "leads": 335,
+          "contacto": 80.0,
+          "cita": 78.51,
+          "venta_bruta": 78.81,
+          "escrituracion": 76.72
+        },
+        {
+          "period": "2023-10",
+          "leads": 329,
+          "contacto": 82.07,
+          "cita": 82.07,
+          "venta_bruta": 77.81,
+          "escrituracion": 80.24
+        },
+        {
+          "period": "2023-11",
+          "leads": 329,
+          "contacto": 78.42,
+          "cita": 81.16,
+          "venta_bruta": 81.16,
+          "escrituracion": 82.67
+        },
+        {
+          "period": "2023-12",
+          "leads": 340,
+          "contacto": 81.76,
+          "cita": 78.82,
+          "venta_bruta": 79.71,
+          "escrituracion": 77.35
+        },
+        {
+          "period": "2024-01",
+          "leads": 330,
+          "contacto": 80.0,
+          "cita": 79.39,
+          "venta_bruta": 83.94,
+          "escrituracion": 81.82
+        },
+        {
+          "period": "2024-02",
+          "leads": 320,
+          "contacto": 80.94,
+          "cita": 78.12,
+          "venta_bruta": 83.12,
+          "escrituracion": 78.12
+        },
+        {
+          "period": "2024-03",
+          "leads": 340,
+          "contacto": 80.0,
+          "cita": 77.94,
+          "venta_bruta": 80.0,
+          "escrituracion": 78.82
+        },
+        {
+          "period": "2024-04",
+          "leads": 350,
+          "contacto": 80.0,
+          "cita": 82.29,
+          "venta_bruta": 82.57,
+          "escrituracion": 81.43
+        },
+        {
+          "period": "2024-05",
+          "leads": 346,
+          "contacto": 81.5,
+          "cita": 80.06,
+          "venta_bruta": 80.35,
+          "escrituracion": 82.66
+        },
+        {
+          "period": "2024-06",
+          "leads": 309,
+          "contacto": 81.88,
+          "cita": 75.4,
+          "venta_bruta": 81.55,
+          "escrituracion": 77.02
+        },
+        {
+          "period": "2024-07",
+          "leads": 333,
+          "contacto": 81.38,
+          "cita": 78.08,
+          "venta_bruta": 79.88,
+          "escrituracion": 80.18
+        },
+        {
+          "period": "2024-08",
+          "leads": 326,
+          "contacto": 83.13,
+          "cita": 80.06,
+          "venta_bruta": 78.83,
+          "escrituracion": 79.45
+        },
+        {
+          "period": "2024-09",
+          "leads": 347,
+          "contacto": 80.4,
+          "cita": 80.4,
+          "venta_bruta": 79.25,
+          "escrituracion": 80.12
+        },
+        {
+          "period": "2024-10",
+          "leads": 316,
+          "contacto": 81.01,
+          "cita": 80.38,
+          "venta_bruta": 80.7,
+          "escrituracion": 80.38
+        },
+        {
+          "period": "2024-11",
+          "leads": 335,
+          "contacto": 80.0,
+          "cita": 77.31,
+          "venta_bruta": 82.99,
+          "escrituracion": 77.91
+        },
+        {
+          "period": "2024-12",
+          "leads": 357,
+          "contacto": 80.67,
+          "cita": 81.23,
+          "venta_bruta": 78.43,
+          "escrituracion": 76.19
+        },
+        {
+          "period": "2025-01",
+          "leads": 326,
+          "contacto": 81.6,
+          "cita": 78.22,
+          "venta_bruta": 82.52,
+          "escrituracion": 82.21
+        },
+        {
+          "period": "2025-02",
+          "leads": 321,
+          "contacto": 77.57,
+          "cita": 79.75,
+          "venta_bruta": 81.31,
+          "escrituracion": 78.82
+        },
+        {
+          "period": "2025-03",
+          "leads": 345,
+          "contacto": 80.29,
+          "cita": 82.32,
+          "venta_bruta": 79.13,
+          "escrituracion": 77.39
+        },
+        {
+          "period": "2025-04",
+          "leads": 316,
+          "contacto": 81.01,
+          "cita": 78.48,
+          "venta_bruta": 78.16,
+          "escrituracion": 80.06
+        },
+        {
+          "period": "2025-05",
+          "leads": 354,
+          "contacto": 78.53,
+          "cita": 79.66,
+          "venta_bruta": 80.79,
+          "escrituracion": 80.51
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 3": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 350,
+          "contacto": 80.86,
+          "cita": 81.43,
+          "venta_bruta": 80.57,
+          "escrituracion": 80.0
+        },
+        {
+          "period": "2023-02",
+          "leads": 333,
+          "contacto": 81.08,
+          "cita": 80.48,
+          "venta_bruta": 78.08,
+          "escrituracion": 81.08
+        },
+        {
+          "period": "2023-03",
+          "leads": 326,
+          "contacto": 78.22,
+          "cita": 78.53,
+          "venta_bruta": 78.53,
+          "escrituracion": 81.6
+        },
+        {
+          "period": "2023-04",
+          "leads": 314,
+          "contacto": 74.52,
+          "cita": 83.76,
+          "venta_bruta": 81.21,
+          "escrituracion": 81.85
+        },
+        {
+          "period": "2023-05",
+          "leads": 320,
+          "contacto": 83.12,
+          "cita": 74.06,
+          "venta_bruta": 79.38,
+          "escrituracion": 82.5
+        },
+        {
+          "period": "2023-06",
+          "leads": 355,
+          "contacto": 78.03,
+          "cita": 81.13,
+          "venta_bruta": 81.97,
+          "escrituracion": 81.13
+        },
+        {
+          "period": "2023-07",
+          "leads": 365,
+          "contacto": 78.63,
+          "cita": 81.1,
+          "venta_bruta": 80.0,
+          "escrituracion": 80.82
+        },
+        {
+          "period": "2023-08",
+          "leads": 336,
+          "contacto": 78.87,
+          "cita": 78.87,
+          "venta_bruta": 81.55,
+          "escrituracion": 75.89
+        },
+        {
+          "period": "2023-09",
+          "leads": 331,
+          "contacto": 79.15,
+          "cita": 83.38,
+          "venta_bruta": 79.15,
+          "escrituracion": 80.06
+        },
+        {
+          "period": "2023-10",
+          "leads": 317,
+          "contacto": 78.55,
+          "cita": 79.5,
+          "venta_bruta": 79.5,
+          "escrituracion": 78.23
+        },
+        {
+          "period": "2023-11",
+          "leads": 353,
+          "contacto": 81.3,
+          "cita": 78.19,
+          "venta_bruta": 79.32,
+          "escrituracion": 83.0
+        },
+        {
+          "period": "2023-12",
+          "leads": 317,
+          "contacto": 80.44,
+          "cita": 79.18,
+          "venta_bruta": 83.6,
+          "escrituracion": 80.44
+        },
+        {
+          "period": "2024-01",
+          "leads": 354,
+          "contacto": 75.71,
+          "cita": 78.81,
+          "venta_bruta": 81.92,
+          "escrituracion": 77.97
+        },
+        {
+          "period": "2024-02",
+          "leads": 334,
+          "contacto": 77.25,
+          "cita": 78.74,
+          "venta_bruta": 80.84,
+          "escrituracion": 78.44
+        },
+        {
+          "period": "2024-03",
+          "leads": 357,
+          "contacto": 82.35,
+          "cita": 80.95,
+          "venta_bruta": 82.91,
+          "escrituracion": 79.27
+        },
+        {
+          "period": "2024-04",
+          "leads": 319,
+          "contacto": 77.12,
+          "cita": 81.82,
+          "venta_bruta": 77.43,
+          "escrituracion": 82.45
+        },
+        {
+          "period": "2024-05",
+          "leads": 336,
+          "contacto": 83.04,
+          "cita": 80.06,
+          "venta_bruta": 76.19,
+          "escrituracion": 80.65
+        },
+        {
+          "period": "2024-06",
+          "leads": 325,
+          "contacto": 82.15,
+          "cita": 80.31,
+          "venta_bruta": 80.0,
+          "escrituracion": 77.54
+        },
+        {
+          "period": "2024-07",
+          "leads": 340,
+          "contacto": 80.88,
+          "cita": 81.76,
+          "venta_bruta": 83.82,
+          "escrituracion": 79.12
+        },
+        {
+          "period": "2024-08",
+          "leads": 313,
+          "contacto": 77.64,
+          "cita": 81.47,
+          "venta_bruta": 78.59,
+          "escrituracion": 81.15
+        },
+        {
+          "period": "2024-09",
+          "leads": 304,
+          "contacto": 80.26,
+          "cita": 77.63,
+          "venta_bruta": 82.89,
+          "escrituracion": 82.57
+        },
+        {
+          "period": "2024-10",
+          "leads": 314,
+          "contacto": 81.85,
+          "cita": 79.62,
+          "venta_bruta": 80.25,
+          "escrituracion": 80.89
+        },
+        {
+          "period": "2024-11",
+          "leads": 339,
+          "contacto": 75.81,
+          "cita": 79.06,
+          "venta_bruta": 79.35,
+          "escrituracion": 82.01
+        },
+        {
+          "period": "2024-12",
+          "leads": 323,
+          "contacto": 80.8,
+          "cita": 76.47,
+          "venta_bruta": 79.26,
+          "escrituracion": 78.33
+        },
+        {
+          "period": "2025-01",
+          "leads": 138,
+          "contacto": 81.16,
+          "cita": 81.16,
+          "venta_bruta": 78.26,
+          "escrituracion": 76.81
+        },
+        {
+          "period": "2025-02",
+          "leads": 78,
+          "contacto": 85.9,
+          "cita": 75.64,
+          "venta_bruta": 82.05,
+          "escrituracion": 73.08
+        },
+        {
+          "period": "2025-03",
+          "leads": 151,
+          "contacto": 78.81,
+          "cita": 84.77,
+          "venta_bruta": 76.16,
+          "escrituracion": 80.79
+        },
+        {
+          "period": "2025-04",
+          "leads": 64,
+          "contacto": 76.56,
+          "cita": 85.94,
+          "venta_bruta": 78.12,
+          "escrituracion": 79.69
+        },
+        {
+          "period": "2025-05",
+          "leads": 142,
+          "contacto": 85.92,
+          "cita": 77.46,
+          "venta_bruta": 78.87,
+          "escrituracion": 87.32
+        }
+      ],
+      "period_type": "month"
+    },
+    "Desarrollo 9": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 333,
+          "contacto": 79.88,
+          "cita": 79.88,
+          "venta_bruta": 78.98,
+          "escrituracion": 80.78
+        },
+        {
+          "period": "2023-02",
+          "leads": 355,
+          "contacto": 81.69,
+          "cita": 80.85,
+          "venta_bruta": 78.59,
+          "escrituracion": 79.72
+        },
+        {
+          "period": "2023-03",
+          "leads": 340,
+          "contacto": 81.18,
+          "cita": 80.0,
+          "venta_bruta": 80.59,
+          "escrituracion": 79.71
+        },
+        {
+          "period": "2023-04",
+          "leads": 361,
+          "contacto": 77.29,
+          "cita": 82.27,
+          "venta_bruta": 83.93,
+          "escrituracion": 80.89
+        },
+        {
+          "period": "2023-05",
+          "leads": 331,
+          "contacto": 83.08,
+          "cita": 77.95,
+          "venta_bruta": 80.97,
+          "escrituracion": 77.04
+        },
+        {
+          "period": "2023-06",
+          "leads": 335,
+          "contacto": 83.88,
+          "cita": 79.1,
+          "venta_bruta": 79.1,
+          "escrituracion": 77.61
+        },
+        {
+          "period": "2023-07",
+          "leads": 352,
+          "contacto": 77.27,
+          "cita": 82.1,
+          "venta_bruta": 80.4,
+          "escrituracion": 81.25
+        },
+        {
+          "period": "2023-08",
+          "leads": 325,
+          "contacto": 78.46,
+          "cita": 75.38,
+          "venta_bruta": 79.69,
+          "escrituracion": 77.23
+        },
+        {
+          "period": "2023-09",
+          "leads": 312,
+          "contacto": 81.73,
+          "cita": 79.17,
+          "venta_bruta": 80.13,
+          "escrituracion": 81.73
+        },
+        {
+          "period": "2023-10",
+          "leads": 338,
+          "contacto": 75.74,
+          "cita": 77.22,
+          "venta_bruta": 80.77,
+          "escrituracion": 82.25
+        },
+        {
+          "period": "2023-11",
+          "leads": 321,
+          "contacto": 83.49,
+          "cita": 79.44,
+          "venta_bruta": 79.44,
+          "escrituracion": 81.93
+        },
+        {
+          "period": "2023-12",
+          "leads": 309,
+          "contacto": 76.7,
+          "cita": 79.94,
+          "venta_bruta": 81.23,
+          "escrituracion": 77.67
+        },
+        {
+          "period": "2024-01",
+          "leads": 328,
+          "contacto": 81.4,
+          "cita": 83.23,
+          "venta_bruta": 79.88,
+          "escrituracion": 83.84
+        },
+        {
+          "period": "2024-02",
+          "leads": 318,
+          "contacto": 81.45,
+          "cita": 80.19,
+          "venta_bruta": 80.19,
+          "escrituracion": 81.45
+        },
+        {
+          "period": "2024-03",
+          "leads": 337,
+          "contacto": 83.09,
+          "cita": 80.12,
+          "venta_bruta": 77.15,
+          "escrituracion": 75.96
+        },
+        {
+          "period": "2024-04",
+          "leads": 331,
+          "contacto": 81.57,
+          "cita": 79.76,
+          "venta_bruta": 77.64,
+          "escrituracion": 80.36
+        },
+        {
+          "period": "2024-05",
+          "leads": 322,
+          "contacto": 82.3,
+          "cita": 77.95,
+          "venta_bruta": 79.81,
+          "escrituracion": 83.54
+        },
+        {
+          "period": "2024-06",
+          "leads": 318,
+          "contacto": 82.08,
+          "cita": 80.5,
+          "venta_bruta": 78.62,
+          "escrituracion": 82.7
+        },
+        {
+          "period": "2024-07",
+          "leads": 324,
+          "contacto": 77.47,
+          "cita": 78.4,
+          "venta_bruta": 79.01,
+          "escrituracion": 79.63
+        },
+        {
+          "period": "2024-08",
+          "leads": 314,
+          "contacto": 76.75,
+          "cita": 78.34,
+          "venta_bruta": 79.3,
+          "escrituracion": 84.08
+        },
+        {
+          "period": "2024-09",
+          "leads": 328,
+          "contacto": 77.13,
+          "cita": 76.83,
+          "venta_bruta": 80.79,
+          "escrituracion": 80.49
+        },
+        {
+          "period": "2024-10",
+          "leads": 332,
+          "contacto": 79.22,
+          "cita": 78.01,
+          "venta_bruta": 83.13,
+          "escrituracion": 82.53
+        },
+        {
+          "period": "2024-11",
+          "leads": 303,
+          "contacto": 77.23,
+          "cita": 82.18,
+          "venta_bruta": 76.24,
+          "escrituracion": 83.17
+        },
+        {
+          "period": "2024-12",
+          "leads": 328,
+          "contacto": 79.88,
+          "cita": 75.0,
+          "venta_bruta": 78.35,
+          "escrituracion": 80.18
+        },
+        {
+          "period": "2025-01",
+          "leads": 134,
+          "contacto": 82.84,
+          "cita": 78.36,
+          "venta_bruta": 82.09,
+          "escrituracion": 79.1
+        },
+        {
+          "period": "2025-02",
+          "leads": 78,
+          "contacto": 78.21,
+          "cita": 82.05,
+          "venta_bruta": 84.62,
+          "escrituracion": 75.64
+        },
+        {
+          "period": "2025-03",
+          "leads": 161,
+          "contacto": 81.37,
+          "cita": 85.09,
+          "venta_bruta": 73.91,
+          "escrituracion": 82.61
+        },
+        {
+          "period": "2025-04",
+          "leads": 77,
+          "contacto": 81.82,
+          "cita": 76.62,
+          "venta_bruta": 80.52,
+          "escrituracion": 80.52
+        },
+        {
+          "period": "2025-05",
+          "leads": 127,
+          "contacto": 87.4,
+          "cita": 79.53,
+          "venta_bruta": 77.17,
+          "escrituracion": 79.53
+        }
+      ],
+      "period_type": "month"
+    }
+  },
+  "by_year": {
+    "2023": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 4853,
+          "contacto": 79.93,
+          "cita": 79.39,
+          "venta_bruta": 80.53,
+          "escrituracion": 79.52
+        },
+        {
+          "period": "2023-02",
+          "leads": 5000,
+          "contacto": 80.32,
+          "cita": 80.24,
+          "venta_bruta": 80.28,
+          "escrituracion": 80.4
+        },
+        {
+          "period": "2023-03",
+          "leads": 5000,
+          "contacto": 79.22,
+          "cita": 80.86,
+          "venta_bruta": 80.3,
+          "escrituracion": 79.34
+        },
+        {
+          "period": "2023-04",
+          "leads": 5000,
+          "contacto": 78.82,
+          "cita": 81.6,
+          "venta_bruta": 80.02,
+          "escrituracion": 80.56
+        },
+        {
+          "period": "2023-05",
+          "leads": 5000,
+          "contacto": 80.04,
+          "cita": 79.86,
+          "venta_bruta": 80.1,
+          "escrituracion": 80.32
+        },
+        {
+          "period": "2023-06",
+          "leads": 5000,
+          "contacto": 79.08,
+          "cita": 80.1,
+          "venta_bruta": 80.76,
+          "escrituracion": 79.76
+        },
+        {
+          "period": "2023-07",
+          "leads": 5000,
+          "contacto": 79.58,
+          "cita": 80.4,
+          "venta_bruta": 80.16,
+          "escrituracion": 81.04
+        },
+        {
+          "period": "2023-08",
+          "leads": 5000,
+          "contacto": 79.92,
+          "cita": 79.68,
+          "venta_bruta": 79.9,
+          "escrituracion": 79.62
+        },
+        {
+          "period": "2023-09",
+          "leads": 5000,
+          "contacto": 80.7,
+          "cita": 80.44,
+          "venta_bruta": 80.32,
+          "escrituracion": 79.54
+        },
+        {
+          "period": "2023-10",
+          "leads": 5000,
+          "contacto": 79.72,
+          "cita": 79.8,
+          "venta_bruta": 79.82,
+          "escrituracion": 79.68
+        },
+        {
+          "period": "2023-11",
+          "leads": 5000,
+          "contacto": 80.2,
+          "cita": 79.78,
+          "venta_bruta": 80.82,
+          "escrituracion": 80.4
+        },
+        {
+          "period": "2023-12",
+          "leads": 5000,
+          "contacto": 79.42,
+          "cita": 79.76,
+          "venta_bruta": 80.46,
+          "escrituracion": 79.94
+        }
+      ],
+      "period_type": "month"
+    },
+    "2022": {
+      "data": [
+        {
+          "period": "2023-01",
+          "leads": 147,
+          "contacto": 87.07,
+          "cita": 82.99,
+          "venta_bruta": 80.27,
+          "escrituracion": 80.27
+        }
+      ],
+      "period_type": "month"
+    },
+    "2024": {
+      "data": [
+        {
+          "period": "2024-01",
+          "leads": 5000,
+          "contacto": 80.28,
+          "cita": 80.22,
+          "venta_bruta": 80.04,
+          "escrituracion": 80.82
+        },
+        {
+          "period": "2024-02",
+          "leads": 5000,
+          "contacto": 80.06,
+          "cita": 81.0,
+          "venta_bruta": 80.14,
+          "escrituracion": 80.34
+        },
+        {
+          "period": "2024-03",
+          "leads": 5000,
+          "contacto": 79.1,
+          "cita": 81.1,
+          "venta_bruta": 79.86,
+          "escrituracion": 79.94
+        },
+        {
+          "period": "2024-04",
+          "leads": 5000,
+          "contacto": 80.64,
+          "cita": 80.86,
+          "venta_bruta": 79.26,
+          "escrituracion": 80.46
+        },
+        {
+          "period": "2024-05",
+          "leads": 5000,
+          "contacto": 80.92,
+          "cita": 79.3,
+          "venta_bruta": 80.7,
+          "escrituracion": 79.94
+        },
+        {
+          "period": "2024-06",
+          "leads": 5000,
+          "contacto": 80.52,
+          "cita": 79.64,
+          "venta_bruta": 80.44,
+          "escrituracion": 79.54
+        },
+        {
+          "period": "2024-07",
+          "leads": 5000,
+          "contacto": 79.94,
+          "cita": 80.16,
+          "venta_bruta": 80.24,
+          "escrituracion": 80.2
+        },
+        {
+          "period": "2024-08",
+          "leads": 5000,
+          "contacto": 80.16,
+          "cita": 80.12,
+          "venta_bruta": 81.28,
+          "escrituracion": 81.06
+        },
+        {
+          "period": "2024-09",
+          "leads": 5000,
+          "contacto": 80.06,
+          "cita": 79.72,
+          "venta_bruta": 80.44,
+          "escrituracion": 80.6
+        },
+        {
+          "period": "2024-10",
+          "leads": 5000,
+          "contacto": 80.86,
+          "cita": 79.56,
+          "venta_bruta": 80.16,
+          "escrituracion": 80.26
+        },
+        {
+          "period": "2024-11",
+          "leads": 5000,
+          "contacto": 79.7,
+          "cita": 79.78,
+          "venta_bruta": 79.98,
+          "escrituracion": 81.18
+        },
+        {
+          "period": "2024-12",
+          "leads": 4650,
+          "contacto": 80.11,
+          "cita": 78.8,
+          "venta_bruta": 79.05,
+          "escrituracion": 79.51
+        }
+      ],
+      "period_type": "month"
+    },
+    "2025": {
+      "data": [
+        {
+          "period": "2024-12",
+          "leads": 350,
+          "contacto": 80.57,
+          "cita": 82.0,
+          "venta_bruta": 79.71,
+          "escrituracion": 83.71
+        },
+        {
+          "period": "2025-01",
+          "leads": 3395,
+          "contacto": 81.15,
+          "cita": 80.21,
+          "venta_bruta": 80.85,
+          "escrituracion": 80.35
+        },
+        {
+          "period": "2025-02",
+          "leads": 3051,
+          "contacto": 79.42,
+          "cita": 80.17,
+          "venta_bruta": 80.07,
+          "escrituracion": 78.2
+        },
+        {
+          "period": "2025-03",
+          "leads": 3554,
+          "contacto": 79.23,
+          "cita": 79.8,
+          "venta_bruta": 78.47,
+          "escrituracion": 79.23
+        },
+        {
+          "period": "2025-04",
+          "leads": 2929,
+          "contacto": 79.75,
+          "cita": 80.54,
+          "venta_bruta": 79.0,
+          "escrituracion": 80.27
+        },
+        {
+          "period": "2025-05",
+          "leads": 3502,
+          "contacto": 80.07,
+          "cita": 80.87,
+          "venta_bruta": 80.61,
+          "escrituracion": 80.35
+        }
+      ],
+      "period_type": "month"
+    }
+  }
+}
